@@ -362,6 +362,11 @@ textarea {
   font-weight: 800;
 }
 
+.inline-action {
+  width: auto;
+  min-width: min(100%, 280px);
+}
+
 .primary-button {
   background: linear-gradient(135deg, var(--red), var(--orange));
   box-shadow: 0 14px 28px rgba(255, 77, 94, 0.24);
@@ -571,6 +576,11 @@ textarea {
   color: #ffc7cd;
 }
 
+.badge-result {
+  background: rgba(55, 214, 122, 0.2);
+  color: #caffdb;
+}
+
 .brief-cta {
   display: inline-flex;
   align-items: center;
@@ -713,6 +723,20 @@ textarea {
   color: #e9f5ec;
   font-size: 13px;
   font-weight: 800;
+}
+
+.result-tools {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex-wrap: wrap;
+  margin-top: 6px;
+}
+
+.helper-text {
+  margin: 0;
+  color: var(--muted);
+  font-size: 13px;
 }
 
 .form-grid {
@@ -975,6 +999,10 @@ textarea {
   }
 
   .copy-btn {
+    width: 100%;
+  }
+
+  .inline-action {
     width: 100%;
   }
 }
