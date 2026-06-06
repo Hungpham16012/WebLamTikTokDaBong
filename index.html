@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bảng Điều Phối Nội Dung World Cup 2026</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="stadium-bg" aria-hidden="true">
+    <div class="pitch-lines"></div>
+    <div class="light light-left"></div>
+    <div class="light light-right"></div>
+  </div>
+
+  <div class="app-shell">
+    <header class="matchday-hero">
+      <div class="brand-block">
+        <span class="live-chip"><span class="live-dot"></span> Phòng điều phối ngày đấu</span>
+        <h1>Bảng Điều Phối Nội Dung World Cup 2026</h1>
+        <p>Lịch thi đấu, luồng sản xuất video và bản kế hoạch nội dung TikTok/Reels/Shorts cho từng ngày đấu.</p>
+      </div>
+
+      <div class="hero-panel" aria-label="Tổng quan ngày đang chọn">
+        <div>
+          <span class="metric-label">Ngày đang chọn</span>
+          <strong id="heroDate">2026-06-12</strong>
+        </div>
+        <div>
+          <span class="metric-label">Tiến độ đăng</span>
+          <strong id="heroProgressText">0/0</strong>
+        </div>
+        <div class="progress-track" aria-hidden="true">
+          <span id="heroProgressBar"></span>
+        </div>
+      </div>
+    </header>
+
+    <main class="dashboard-layout">
+      <aside class="control-rail" aria-label="Bộ lọc và thao tác dữ liệu">
+        <div class="rail-section">
+          <div class="section-title">
+            <span class="icon-filter" aria-hidden="true"></span>
+            <h2>Bộ lọc</h2>
+          </div>
+
+          <label class="field-label" for="dateFilter">Ngày</label>
+          <select id="dateFilter"></select>
+
+          <label class="field-label" for="groupFilter">Bảng</label>
+          <select id="groupFilter"></select>
+
+          <label class="field-label" for="teamFilter">Đội</label>
+          <select id="teamFilter"></select>
+
+          <label class="field-label" for="tierFilter">Tier</label>
+          <select id="tierFilter"></select>
+
+          <label class="field-label" for="statusFilter">Trạng thái</label>
+          <select id="statusFilter"></select>
+
+          <label class="field-label" for="videoTypeFilter">Loại video</label>
+          <select id="videoTypeFilter"></select>
+        </div>
+
+        <div class="rail-section rail-actions">
+          <button id="resetBtn" class="ghost-button" type="button">
+            <span class="icon-reset" aria-hidden="true"></span>
+            Khôi phục dữ liệu
+          </button>
+          <button id="exportBtn" class="ghost-button" type="button">
+            <span class="icon-export" aria-hidden="true"></span>
+            Xuất JSON
+          </button>
+          <button id="importBtn" class="primary-button" type="button">
+            <span class="icon-import" aria-hidden="true"></span>
+            Nhập JSON
+          </button>
+          <input id="importFile" type="file" accept="application/json,.json" hidden>
+        </div>
+      </aside>
+
+      <section class="content-zone" aria-live="polite">
+        <div class="summary-bar">
+          <article class="summary-card">
+            <span>Tổng trận</span>
+            <strong id="statTotal">0</strong>
+          </article>
+          <article class="summary-card">
+            <span>Chưa làm</span>
+            <strong id="statTodo">0</strong>
+          </article>
+          <article class="summary-card">
+            <span>Đang nghiên cứu/viết</span>
+            <strong id="statWorking">0</strong>
+          </article>
+          <article class="summary-card">
+            <span>Đã đăng</span>
+            <strong id="statPosted">0</strong>
+          </article>
+          <article class="summary-card tier-a-summary">
+            <span>Tier A</span>
+            <strong id="statTierA">0</strong>
+          </article>
+        </div>
+
+        <div class="list-header">
+          <div>
+            <span class="eyebrow">Lịch trận nóng</span>
+            <h2 id="listTitle">Lịch thi đấu</h2>
+          </div>
+          <span id="resultCount" class="result-count">0 trận</span>
+        </div>
+
+        <div id="matchesList" class="matches-list"></div>
+
+        <div id="emptyState" class="empty-state" hidden>
+          <span class="empty-mark" aria-hidden="true"></span>
+          <h2>Không có trận nào trong bộ lọc này</h2>
+          <p>Đổi ngày, bảng, đội hoặc trạng thái để mở lại lịch thi đấu.</p>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <div id="modalOverlay" class="modal-overlay" hidden>
+    <section class="match-modal" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+      <button id="closeModalBtn" class="icon-button close-button" type="button" aria-label="Đóng bản kế hoạch">
+        <span class="icon-close" aria-hidden="true"></span>
+      </button>
+
+      <div class="modal-header">
+        <span id="modalMeta" class="live-chip">Bản kế hoạch trận đấu</span>
+        <h2 id="modalTitle">Tên trận đấu</h2>
+        <p id="modalSubtitle">Thông tin trận đấu</p>
+      </div>
+
+      <div class="copy-strip" aria-label="Sao chép mẫu nội dung">
+        <button class="copy-btn" type="button" data-copy="hook">Chép câu mở đầu</button>
+        <button class="copy-btn" type="button" data-copy="script">Chép mẫu kịch bản</button>
+        <button class="copy-btn" type="button" data-copy="captionEn">Chép mô tả EN</button>
+        <button class="copy-btn" type="button" data-copy="captionVi">Chép mô tả VI</button>
+        <button class="copy-btn" type="button" data-copy="hashtags">Chép thẻ hashtag</button>
+        <button class="copy-btn strong" type="button" data-copy="full">Chép kế hoạch đầy đủ</button>
+      </div>
+
+      <form id="matchForm" class="modal-body">
+        <div class="form-section">
+          <h3>Thông tin trận đấu</h3>
+          <div class="form-grid compact-grid">
+            <label>
+              Tier
+              <select name="tier"></select>
+            </label>
+            <label>
+              Loại video
+              <select name="videoType"></select>
+            </label>
+            <label>
+              Trạng thái
+              <select name="status"></select>
+            </label>
+            <label>
+              Giờ đăng
+              <input name="publishTime" type="time">
+            </label>
+            <label>
+              Dự đoán tỷ số
+              <input name="predictedScore" type="text" placeholder="2-1">
+            </label>
+            <label>
+              Độ tự tin
+              <select name="confidenceLevel"></select>
+            </label>
+          </div>
+          <label>
+            Ghi chú ngắn
+            <textarea name="notes" rows="2"></textarea>
+          </label>
+        </div>
+
+        <div class="form-section">
+          <h3>Nghiên cứu & chiến thuật</h3>
+          <label>Ghi chú nghiên cứu<textarea name="researchNotes" rows="3"></textarea></label>
+          <div class="form-grid">
+            <label>Cầu thủ đáng chú ý<textarea name="keyPlayers" rows="3"></textarea></label>
+            <label>Tin đội hình / chấn thương<textarea name="teamNews" rows="3"></textarea></label>
+            <label>Ghi chú chiến thuật<textarea name="tacticalNotes" rows="3"></textarea></label>
+            <label>3 điểm nóng đối đầu<textarea name="keyBattles" rows="3"></textarea></label>
+          </div>
+        </div>
+
+        <div class="form-section">
+          <h3>Xưởng kịch bản</h3>
+          <label>Câu mở đầu video<textarea name="hook" rows="2"></textarea></label>
+          <label>Dàn ý kịch bản<textarea name="scriptOutline" rows="5"></textarea></label>
+          <div class="form-grid">
+            <label>Mô tả tiếng Anh<textarea name="captionEn" rows="4"></textarea></label>
+            <label>Mô tả tiếng Việt<textarea name="captionVi" rows="4"></textarea></label>
+          </div>
+          <label>Hashtag<textarea name="hashtags" rows="2"></textarea></label>
+          <label>Câu hỏi kéo bình luận<input name="commentQuestion" type="text"></label>
+        </div>
+
+        <div class="form-section">
+          <h3>Kết quả & kiểm chứng</h3>
+          <div class="form-grid compact-grid">
+            <label>
+              Kết quả sau trận
+              <input name="result" type="text" placeholder="VD: 1-1">
+            </label>
+            <label>
+              Kiểm tra dự đoán
+              <select name="predictionCheck"></select>
+            </label>
+          </div>
+        </div>
+      </form>
+    </section>
+  </div>
+
+  <div id="toast" class="toast" role="status" aria-live="polite" hidden></div>
+
+  <script src="app.js"></script>
+</body>
+</html>
