@@ -43,6 +43,92 @@ const CHECK_LABELS = {
   Wrong: "Sai",
   Partial: "Đúng một phần",
 };
+const PRODUCTION_PLAN = {
+  title: "Portugal 2026: Điểm Nghẽn Vô Địch",
+  subtitle: "Video phân tích ưu điểm, nhược điểm và bài toán Ronaldo của Bồ Đào Nha.",
+  checklist: [
+    {
+      group: "1. Thumbnail",
+      time: "10 phút",
+      items: [
+        "Dùng ảnh nền stadium đỏ/xanh lá đã tạo.",
+        "Chèn chữ lớn trong khung neon: ĐIỂM NGHẼN?",
+        "Thêm dòng nhỏ: PORTUGAL 2026 ở vùng dưới an toàn.",
+        "Font: Anton, Bebas Neue hoặc Noto Sans Bold.",
+        "Màu chữ trắng/vàng, stroke đen 8px, shadow nhẹ.",
+        "Che/crop watermark nhỏ ở góc dưới phải nếu còn thấy.",
+      ],
+    },
+    {
+      group: "2. Voice AI",
+      time: "5 phút",
+      items: [
+        "Đọc giọng nhanh, rõ, có nhấn ở các cụm: chưa hoàn hảo, điểm nghẽn, Ronaldo.",
+        "Không đọc như lời khuyên cá cược.",
+        "Giữ tổng thời lượng khoảng 30-35 giây.",
+      ],
+    },
+    {
+      group: "3. Script Chính",
+      time: "Có sẵn",
+      items: [
+        "Bồ Đào Nha mạnh, nhưng chưa hoàn hảo.",
+        "Nếu nhìn squad, Portugal có đủ thứ để mơ vô địch World Cup 2026: Ronaldo, Bruno, Bernardo, Vitinha, João Neves, Rúben Dias, Rafael Leão.",
+        "Ưu điểm lớn nhất là chất lượng sáng tạo. Họ có thể kiểm soát bóng, pressing, đá biên, đá trung lộ và tạo cơ hội từ nhiều hướng.",
+        "Nhưng điểm nghẽn là cân bằng. Ronaldo vẫn là biểu tượng, nhưng cách dùng anh sẽ quyết định nhịp tấn công.",
+        "Tuyến giữa rất kỹ thuật, nhưng nếu mất bóng trước đội phản công nhanh, hàng thủ sẽ bị kéo giãn.",
+        "Theo bạn, Ronaldo là chìa khóa hay bài toán của Portugal? Comment đội muốn phân tích tiếp theo.",
+      ],
+    },
+    {
+      group: "4. Scene Text",
+      time: "12 phút",
+      items: [
+        "0-3s: PORTUGAL CÓ ĐỦ?",
+        "3-7s: SQUAD RẤT SÂU",
+        "7-12s: ƯU ĐIỂM: SÁNG TẠO",
+        "12-18s: TẤN CÔNG ĐA DẠNG",
+        "18-24s: ĐIỂM NGHẼN: CÂN BẰNG",
+        "24-30s: RONALDO: KEY HAY RISK?",
+        "30-35s: BẠN CHỌN GÌ?",
+      ],
+    },
+    {
+      group: "5. CapCut Workflow",
+      time: "20 phút",
+      items: [
+        "Tạo project 9:16, 1080x1920, 30fps.",
+        "Đặt background stadium/thumbnail, thêm slow zoom 105%.",
+        "Thêm silhouette/cutout Ronaldo-inspired, keyframe zoom nhẹ.",
+        "Text lớn, stroke đen, không sát mép và tránh vùng UI TikTok.",
+        "Cắt cảnh mỗi 1.5-2.5 giây.",
+        "Scene đầu dùng zoom in + bass hit.",
+        "Đoạn điểm nghẽn dùng glitch nhẹ hoặc flash đỏ.",
+        "Auto Caption tiếng Việt, sửa đúng: Bồ Đào Nha, Portugal, Ronaldo, Vitinha, João Neves, Rúben Dias.",
+      ],
+    },
+    {
+      group: "6. Caption Đăng",
+      time: "2 phút",
+      items: [
+        "Caption: Ronaldo là chìa khóa hay bài toán của Portugal?",
+        "Hashtag: #BongDa #WorldCup2026 #Portugal #TikTokBongDa #RonaldoLastDance",
+        "Comment ghim: Ronaldo là key hay risk của Portugal?",
+        "CTA cuối video: Comment đội muốn phân tích tiếp theo.",
+      ],
+    },
+    {
+      group: "7. Export & Đăng",
+      time: "3 phút",
+      items: [
+        "Export 1080p, 30fps, bitrate High, MP4.",
+        "Giờ đăng đề xuất: 20:30.",
+        "Kiểm tra chữ trong thumbnail đọc rõ trên điện thoại.",
+        "Không dùng logo FIFA/World Cup hoặc highlight bản quyền.",
+      ],
+    },
+  ],
+};
 const BIG_TEAMS = new Set([
   "Brazil",
   "Argentina",
@@ -337,6 +423,7 @@ function cacheElements() {
     "statusFilter",
     "videoTypeFilter",
     "resetBtn",
+    "planBtn",
     "exportBtn",
     "importBtn",
     "importFile",
@@ -357,6 +444,10 @@ function cacheElements() {
     "matchForm",
     "quickCheckBtn",
     "resultHint",
+    "planOverlay",
+    "closePlanBtn",
+    "copyPlanBtn",
+    "productionPlanList",
     "toast",
   ].forEach((id) => {
     els[id] = document.getElementById(id);
@@ -472,13 +563,21 @@ function bindEvents() {
   });
   document.addEventListener("keydown", (event) => {
     if (event.key === "Escape" && !els.modalOverlay.hidden) closeModal();
+    if (event.key === "Escape" && !els.planOverlay.hidden) closeProductionPlan();
   });
 
   els.matchForm.addEventListener("input", handleFormChange);
   els.matchForm.addEventListener("change", handleFormChange);
   els.quickCheckBtn.addEventListener("click", quickCheckResult);
+  els.planBtn.addEventListener("click", openProductionPlan);
+  els.closePlanBtn.addEventListener("click", closeProductionPlan);
+  els.planOverlay.addEventListener("click", (event) => {
+    if (event.target === els.planOverlay) closeProductionPlan();
+  });
+  els.copyPlanBtn.addEventListener("click", copyProductionPlan);
 
   document.querySelectorAll(".copy-btn").forEach((button) => {
+    if (!button.dataset.copy) return;
     button.addEventListener("click", () => copyContent(button.dataset.copy));
   });
 
@@ -622,6 +721,42 @@ function closeModal() {
   state.activeMatchId = null;
 }
 
+function openProductionPlan() {
+  renderProductionPlan();
+  els.planOverlay.hidden = false;
+  window.setTimeout(() => els.closePlanBtn.focus(), 50);
+}
+
+function closeProductionPlan() {
+  els.planOverlay.hidden = true;
+}
+
+function renderProductionPlan() {
+  els.productionPlanList.innerHTML = PRODUCTION_PLAN.checklist
+    .map(
+      (section) => `
+        <article class="form-section production-plan-card">
+          <div class="plan-card-header">
+            <h3>${escapeHtml(section.group)}</h3>
+            <span>${escapeHtml(section.time)}</span>
+          </div>
+          <ul>
+            ${section.items.map((item) => `<li>${escapeHtml(item)}</li>`).join("")}
+          </ul>
+        </article>
+      `,
+    )
+    .join("");
+}
+
+function copyProductionPlan() {
+  copyText(makeProductionPlanText())
+    .then(() => showToast("Đã chép kế hoạch tối nay."))
+    .catch(() =>
+      showToast("Không thể chép tự động, hãy chép thủ công trong modal."),
+    );
+}
+
 function handleFormChange(event) {
   const field = event.target;
   if (!state.activeMatchId || !field.name) return;
@@ -720,6 +855,19 @@ function makeFullBrief(match) {
     `HASHTAG:\n${match.hashtags}`,
     "",
     `CÂU HỎI KÉO BÌNH LUẬN:\n${match.commentQuestion}`,
+  ].join("\n");
+}
+
+function makeProductionPlanText() {
+  return [
+    PRODUCTION_PLAN.title,
+    PRODUCTION_PLAN.subtitle,
+    "",
+    ...PRODUCTION_PLAN.checklist.flatMap((section) => [
+      `${section.group} (${section.time})`,
+      ...section.items.map((item) => `- ${item}`),
+      "",
+    ]),
   ].join("\n");
 }
 

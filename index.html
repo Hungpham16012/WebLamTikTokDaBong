@@ -19,6 +19,7 @@
         <span class="live-chip"><span class="live-dot"></span> Phòng điều phối ngày đấu</span>
         <h1>Bảng Điều Phối Nội Dung World Cup 2026</h1>
         <p>Lịch thi đấu, luồng sản xuất video và bản kế hoạch nội dung TikTok/Reels/Shorts cho từng ngày đấu.</p>
+        <a class="hero-link" href="tiktok-growth.html">Đọc cẩm nang TikTok cá nhân</a>
       </div>
 
       <div class="hero-panel" aria-label="Tổng quan ngày đang chọn">
@@ -67,6 +68,10 @@
           <button id="resetBtn" class="ghost-button" type="button">
             <span class="icon-reset" aria-hidden="true"></span>
             Khôi phục dữ liệu
+          </button>
+          <button id="planBtn" class="primary-button" type="button">
+            <span class="icon-plan" aria-hidden="true"></span>
+            Kế hoạch tối nay
           </button>
           <button id="exportBtn" class="ghost-button" type="button">
             <span class="icon-export" aria-hidden="true"></span>
@@ -222,6 +227,26 @@
           </div>
         </div>
       </form>
+    </section>
+  </div>
+
+  <div id="planOverlay" class="modal-overlay" hidden>
+    <section class="match-modal production-modal" role="dialog" aria-modal="true" aria-labelledby="planTitle">
+      <button id="closePlanBtn" class="icon-button close-button" type="button" aria-label="Đóng kế hoạch tối nay">
+        <span class="icon-close" aria-hidden="true"></span>
+      </button>
+
+      <div class="modal-header">
+        <span class="live-chip">Kế hoạch sản xuất</span>
+        <h2 id="planTitle">Portugal 2026: Điểm Nghẽn Vô Địch</h2>
+        <p>Gói việc đã gom sẵn để tối mở web lên là làm tiếp ngay trong CapCut.</p>
+      </div>
+
+      <div class="copy-strip" aria-label="Sao chép kế hoạch sản xuất">
+        <button id="copyPlanBtn" class="copy-btn strong" type="button">Chép toàn bộ kế hoạch</button>
+      </div>
+
+      <div id="productionPlanList" class="modal-body production-plan-list"></div>
     </section>
   </div>
 
