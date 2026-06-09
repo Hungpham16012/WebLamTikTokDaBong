@@ -338,6 +338,9 @@ Mục tiêu:
 - Có 2 tỷ số phụ với xác suất thấp hơn.
 - Có phần trăm thắng/hòa/thua thật nổi bật.
 - Có 3 cầu thủ nổi bật nhất mỗi đội.
+- Có thêm 2 cầu thủ nổi bật nhất mỗi đội để dùng làm visual face-off nếu cần.
+- Toàn bộ chữ hiển thị trên ảnh phải hướng tới khán giả Việt Nam.
+- Hạn chế chữ dài vì AI tạo ảnh dễ sai dấu tiếng Việt.
 - Thiết kế phải đủ hấp dẫn để người xem dừng lại.
 
 Trả về theo format sau:
@@ -347,24 +350,24 @@ Trả về theo format sau:
 ━━━━━━━━━━━━━━━━━━━━
 
 Image Type:
-Premium vertical 9:16 football prediction poster for TikTok/Reels/Shorts.
+Premium vertical 9:16 football prediction poster for TikTok/Reels/Shorts, hướng tới khán giả Việt Nam.
 
 Main Title:
 [TEAM A] vs [TEAM B]
 
 Subtitle:
-[COMPETITION] Match Prediction
+[COMPETITION] - Dự đoán
 
 Main Visual Focus:
-Hiển thị hai đội đối đầu ở hai bên, nền sân vận động cinematic, ánh sáng mạnh, màu sắc theo quốc kỳ hai đội. Trung tâm ảnh là tỷ số dự đoán lớn nhất.
+Hiển thị hai đội đối đầu trực diện ở hai bên, nền sân vận động cinematic, ánh sáng mạnh, màu sắc theo quốc kỳ hai đội. Trung tâm ảnh là tỷ số dự đoán lớn nhất. Có thể dùng chân dung hoặc hình bán thân phong cách thể thao của 2 cầu thủ nổi bật nhất mỗi bên nếu họ là nhân vật công chúng và phù hợp với trận này. Nếu không thể render mặt thật chính xác, dùng cầu thủ realistic anonymous nhưng vẫn giữ vibe giống ngôi sao bóng đá quốc tế.
 
 Main Prediction:
 [TEAM A] __ - __ [TEAM B]
 
 Win Probability:
-[TEAM A] Win: __%
-Draw: __%
-[TEAM B] Win: __%
+[TEAM A] THẮNG: __%
+HÒA: __%
+[TEAM B] THẮNG: __%
 
 Alternative Scorelines:
 1. [TEAM A] __ - __ [TEAM B] — __%
@@ -384,12 +387,37 @@ Key Stars:
 - [Player 2]
 - [Player 3]
 
+Visual Face-Off Stars:
+[TEAM A]:
+- [Face-Off Star 1]
+- [Face-Off Star 2]
+
+[TEAM B]:
+- [Face-Off Star 1]
+- [Face-Off Star 2]
+
 One-Line Tactical Reason:
 Viết 1 câu thật sắc, dễ hiểu, ví dụ:
 "[TEAM A] có lợi thế kiểm soát trung tuyến, nhưng [TEAM B] nguy hiểm nếu phản công vào khoảng trống sau lưng full-back."
 
 Viral Caption On Image:
 Viết 1 câu ngắn, mạnh, dễ gây tranh luận.
+
+Text Lock For Image:
+Liệt kê chính xác các dòng chữ được phép xuất hiện trên ảnh. Tất cả phải bằng tiếng Việt hoặc tên riêng/tên đội đã xác minh. Ưu tiên chữ in hoa cho tên đội, tỷ số và xác suất.
+
+Allowed Visible Text:
+[TEAM A] vs [TEAM B]
+[COMPETITION] - DỰ ĐOÁN
+[TEAM A] __ - __ [TEAM B]
+[TEAM A] THẮNG: __%
+HÒA: __%
+[TEAM B] THẮNG: __%
+TỶ SỐ PHỤ
+[TEAM A] __ - __ [TEAM B] — __%
+[TEAM A] __ - __ [TEAM B] — __%
+[ONE-LINE TACTICAL REASON]
+[VIRAL CAPTION]
 
 Design Layout:
 - Top 15%: tên trận và giải đấu.
@@ -402,49 +430,100 @@ Design Layout:
 - Dùng màu tương phản cao.
 - Không để chữ sát mép ảnh.
 - Không để TikTok UI che tỷ số, phần trăm hoặc tên đội.
+- Không đặt chữ đè lên mặt cầu thủ.
+- Nếu câu chiến thuật quá dài, ưu tiên bỏ khỏi ảnh hoặc rút còn 1 câu cực ngắn để tránh sai chính tả.
 
 FINAL IMAGE PROMPT:
 
-Create a premium vertical 9:16 football match prediction poster for TikTok/Reels/Shorts.
+Tạo poster bóng đá dọc 9:16 cao cấp cho TikTok/Reels/Shorts, hướng tới khán giả Việt Nam.
 
-Match: [TEAM A] vs [TEAM B]
-Competition: [COMPETITION]
-Venue: [VENUE]
+Trận đấu:
+[TEAM A] vs [TEAM B]
 
-The poster must look like a high-end sports broadcast graphic, cinematic stadium background, dramatic lighting, national colors of both teams, intense face-off composition.
+Giải đấu:
+[COMPETITION]
 
-Main focus:
-A huge central score prediction:
+Sân:
+[VENUE]
+
+Phong cách hình ảnh:
+Poster dự đoán bóng đá kiểu broadcast thể thao cao cấp, cinematic, ánh đèn sân vận động mạnh, không khí trận đấu căng thẳng, tương phản cao, bố cục rõ ràng, dễ đọc trên điện thoại. Không dùng logo giải đấu giả, không dùng huy hiệu đội tuyển/CLB giả nếu không có asset chính thức.
+
+Bố cục:
+Khung dọc 9:16, chừa safe margin cho giao diện TikTok.
+
+Phần trên:
+Tiêu đề lớn:
+[TEAM A] vs [TEAM B]
+
+Dòng phụ:
+[COMPETITION] - DỰ ĐOÁN
+
+Phần giữa:
+Hai đội đối đầu trực diện.
+Bên trái là [TEAM A], dùng màu sắc theo quốc kỳ/áo đấu chính.
+Bên phải là [TEAM B], dùng màu sắc theo quốc kỳ/áo đấu chính.
+Có thể sử dụng chân dung hoặc hình bán thân phong cách thể thao của 2 cầu thủ nổi bật mỗi bên:
+[TEAM A]: [Face-Off Star 1], [Face-Off Star 2]
+[TEAM B]: [Face-Off Star 1], [Face-Off Star 2]
+
+Nếu không thể render mặt thật chính xác, hãy tạo cầu thủ realistic anonymous nhưng vẫn giữ vibe giống ngôi sao bóng đá quốc tế.
+
+Trung tâm poster phải có tỷ số thật lớn:
 [TEAM A] __ - __ [TEAM B]
 
-Below the main score, show win probability bars:
-[TEAM A] Win: __%
-Draw: __%
-[TEAM B] Win: __%
+Phần dưới tỷ số:
+Hiển thị xác suất thắng thật rõ:
+[TEAM A] THẮNG: __%
+HÒA: __%
+[TEAM B] THẮNG: __%
 
-Also include two smaller alternative scorelines:
-Alt 1: [TEAM A] __ - __ [TEAM B] — __%
-Alt 2: [TEAM A] __ - __ [TEAM B] — __%
+Phần cuối:
+TỶ SỐ PHỤ
+[TEAM A] __ - __ [TEAM B] — __%
+[TEAM A] __ - __ [TEAM B] — __%
 
-Show 3 key stars for each team:
-[TEAM A]: [Player 1], [Player 2], [Player 3]
-[TEAM B]: [Player 1], [Player 2], [Player 3]
+Dòng chiến thuật ngắn:
+[ONE-LINE TACTICAL REASON]
 
-Add one short tactical reason:
-"[ONE-LINE TACTICAL REASON]"
+Caption gây tranh luận trên ảnh:
+[VIRAL CAPTION]
 
-Design rules:
-- Ultra-readable on mobile.
-- Bold modern football typography.
-- Strong contrast.
-- Premium broadcast-style layout.
-- Keep the score and probability as the biggest visual elements.
-- Do not overcrowd the poster.
-- No fake logos if official crests are not available.
-- Avoid tiny text.
-- Leave safe margins for TikTok UI.
-- Make it look exciting, sharp, dramatic, and prediction-focused.
-- Final image should feel like a viral football prediction card, not a long infographic.
+TEXT LOCK - QUY TẮC CHỐNG SAI CHÍNH TẢ:
+- Chỉ được hiển thị đúng các dòng chữ trong danh sách chữ được phép.
+- Không tự thêm bất kỳ chữ nào khác.
+- Không thêm slogan, watermark, logo, chữ ký, nhãn phụ, tiếng Anh hoặc ký tự trang trí.
+- Không viết sai dấu tiếng Việt.
+- Không đổi chữ hoa thành chữ thường ở các dòng đã viết in hoa.
+- Không thêm ngoặc kép.
+- Không tự dịch lại nội dung.
+- Không viết biến thể như "debate", "prediction", "match", "viral", "football" lên ảnh.
+- Nếu không chắc render tiếng Việt chính xác, hãy bỏ dòng chữ đó thay vì tự bịa chữ.
+
+DANH SÁCH CHỮ ĐƯỢC PHÉP HIỂN THỊ:
+[TEAM A] vs [TEAM B]
+[COMPETITION] - DỰ ĐOÁN
+[TEAM A] __ - __ [TEAM B]
+[TEAM A] THẮNG: __%
+HÒA: __%
+[TEAM B] THẮNG: __%
+TỶ SỐ PHỤ
+[TEAM A] __ - __ [TEAM B] — __%
+[TEAM A] __ - __ [TEAM B] — __%
+[ONE-LINE TACTICAL REASON]
+[VIRAL CAPTION]
+
+Yêu cầu thiết kế:
+- Toàn bộ chữ trên ảnh dùng tiếng Việt chính xác, trừ tên riêng/tên đội.
+- Typography đậm, hiện đại, dễ đọc trên màn hình điện thoại.
+- Tỷ số chính và xác suất thắng là điểm nhìn lớn nhất.
+- Không nhồi quá nhiều chữ.
+- Không để chữ sát mép ảnh.
+- Không để TikTok UI che tỷ số, phần trăm hoặc tên đội.
+- Không đặt chữ đè lên mặt cầu thủ.
+- Nền sân vận động cinematic, ánh sáng mạnh, khói nhẹ, không khí trận đấu lớn.
+- Poster phải nhìn như prediction card viral, không phải infographic dài.
+- Bố cục sạch, ít chữ, tương phản cao, dễ đọc trong 3 giây đầu.
 
 ━━━━━━━━━━━━━━━━━━━━
 PHẦN 10 — CONTENT SUPPORT
