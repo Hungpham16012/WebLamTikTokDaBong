@@ -416,7 +416,7 @@ Subtitle:
 [COMPETITION] - Dự đoán
 
 Main Visual Focus:
-Hiển thị hai đội đối đầu trực diện ở hai bên, nền sân vận động cinematic, ánh sáng mạnh, màu sắc theo quốc kỳ hai đội. Trung tâm ảnh là tỷ số dự đoán lớn nhất. Có thể dùng chân dung hoặc hình bán thân phong cách thể thao của 2 cầu thủ nổi bật nhất mỗi bên nếu họ là nhân vật công chúng và phù hợp với trận này. Nếu không thể render mặt thật chính xác, dùng cầu thủ realistic anonymous nhưng vẫn giữ vibe giống ngôi sao bóng đá quốc tế.
+Hiển thị hai đội đối đầu trực diện ở hai bên, nền sân vận động cinematic, ánh sáng mạnh, màu sắc theo quốc kỳ hai đội. Trung tâm ảnh là tỷ số dự đoán lớn nhất. Ưu tiên dùng chân dung hoặc hình bán thân phong cách thể thao của 2 cầu thủ nổi bật nhất mỗi bên nếu họ là nhân vật công chúng và phù hợp với trận này, vì poster cần gương mặt/ngôi sao để có sức hút. Nếu không thể render mặt thật chính xác, dùng cầu thủ realistic anonymous nhưng vẫn giữ vibe giống ngôi sao bóng đá quốc tế.
 
 Main Prediction:
 [TEAM A] ** - ** [TEAM B]
@@ -498,13 +498,12 @@ Design Layout:
 
 FINAL IMAGE PROMPT:
 
-BẮT BUỘC tạo 3 prompt ảnh riêng biệt:
+BẮT BUỘC tạo 2 prompt ảnh riêng biệt:
 
 1. PROMPT A - DETAILED VIETNAMESE POSTER PROMPT: prompt tiếng Việt dài, đầy đủ như brief gửi cho designer/AI ảnh.
 2. PROMPT B - ENGLISH FULL POSTER WITH TEXT: prompt tiếng Anh dùng khi công cụ tạo ảnh render chữ tốt hơn với tiếng Anh.
-3. PROMPT C - BACKGROUND ONLY / NO TEXT: dùng khi muốn thêm chữ thủ công bằng Canva/CapCut để tránh lỗi chính tả.
 
-Không được viết prompt ảnh quá ngắn. PROMPT A phải là một prompt tiếng Việt chi tiết tối thiểu 450-700 từ, có format rõ như một creative brief hoàn chỉnh. PROMPT B phải là một prompt tiếng Anh hoàn chỉnh khoảng 220-350 từ. PROMPT C phải là một prompt tiếng Anh hoàn chỉnh khoảng 120-220 từ. Cả 3 prompt phải đủ chi tiết về bố cục, ánh sáng, màu đội, vùng đặt chữ, safe margin, nhân vật, thứ tự ưu tiên thị giác và negative prompt.
+Không được viết prompt ảnh quá ngắn. PROMPT A phải là một prompt tiếng Việt chi tiết tối thiểu 450-700 từ, có format rõ như một creative brief hoàn chỉnh. PROMPT B phải là một prompt tiếng Anh hoàn chỉnh khoảng 220-350 từ. Cả 2 prompt phải đủ chi tiết về bố cục, ánh sáng, màu đội, chữ được render sẵn trên ảnh, safe margin, nhân vật, thứ tự ưu tiên thị giác và negative prompt.
 
 Trả về đúng format sau:
 
@@ -527,7 +526,7 @@ Poster dự đoán bóng đá kiểu broadcast thể thao cao cấp, cinematic, 
 
 Bố cục:
 Khung dọc 9:16, chừa safe margin cho giao diện TikTok/Reels/Shorts. Tỷ số chính và xác suất thắng là điểm nhìn lớn nhất. Không nhồi chữ như infographic dài. Không để chữ sát mép ảnh. Không để chữ đè lên mặt cầu thủ. Không để TikTok UI che tỷ số, phần trăm hoặc tên đội.
-f
+
 Phần trên:
 Tiêu đề lớn:
 [TEAM A] vs [TEAM B]
@@ -536,11 +535,11 @@ Dòng phụ:
 [COMPETITION] - DỰ ĐOÁN
 
 Phần giữa:
-Hai đội đối đầu trực diện. Bên trái là [TEAM A] với màu chủ đạo [TEAM A COLORS]. Bên phải là [TEAM B] với màu chủ đạo [TEAM B COLORS]. Có thể sử dụng chân dung hoặc hình bán thân phong cách thể thao của 2 cầu thủ nổi bật mỗi bên:
+Hai đội đối đầu trực diện. Bên trái là [TEAM A] với màu chủ đạo [TEAM A COLORS]. Bên phải là [TEAM B] với màu chủ đạo [TEAM B COLORS]. Ưu tiên sử dụng chân dung hoặc hình bán thân phong cách thể thao của 2 cầu thủ nổi bật mỗi bên để poster có sức hút mạnh:
 [TEAM A]: [Face-Off Star 1], [Face-Off Star 2]
 [TEAM B]: [Face-Off Star 1], [Face-Off Star 2]
 
-Nếu không thể render mặt thật chính xác, hãy tạo cầu thủ realistic anonymous nhưng vẫn giữ vibe giống ngôi sao bóng đá quốc tế. Không dùng mặt cầu thủ thật bị méo, không tạo huy hiệu giả, không tạo logo giả.
+Chấp nhận một ít rủi ro về likeness vì poster prediction cần có gương mặt/ngôi sao để kéo người xem. Nếu không thể render mặt thật chính xác, hãy tạo cầu thủ realistic anonymous nhưng vẫn giữ vibe giống ngôi sao bóng đá quốc tế. Không dùng mặt cầu thủ thật bị méo dị dạng, không tạo huy hiệu giả, không tạo logo giả.
 
 Trung tâm poster phải có tỷ số thật lớn:
 [TEAM A] ** - ** [TEAM B]
@@ -596,14 +595,14 @@ Yêu cầu thiết kế:
 - Bố cục sạch, ít chữ, đủ khoảng trống thở, nhìn 3 giây là hiểu đội nào được dự đoán lợi hơn.
 
 Negative prompt:
-Không logo giả, không huy hiệu giả, không watermark, không chữ thừa, không ký tự ngẫu nhiên, không sai chính tả tiếng Việt, không biến dạng mặt, không gương mặt cầu thủ thật nếu không render chính xác, không bố cục rối, không chữ nhỏ khó đọc, không ngôn ngữ cá cược.
+Không logo giả, không huy hiệu giả, không watermark, không chữ thừa, không ký tự ngẫu nhiên, không sai chính tả tiếng Việt, không biến dạng mặt nghiêm trọng, không mặt cầu thủ méo dị dạng, không bố cục rối, không chữ nhỏ khó đọc, không ngôn ngữ cá cược.
 
 PROMPT B - ENGLISH FULL POSTER WITH TEXT:
 Viết prompt tiếng Anh theo cấu trúc này, thay đầy đủ dữ liệu trận đấu:
 
 "Create a premium vertical 9:16 football prediction poster for [TEAM A] vs [TEAM B], [COMPETITION].
 
-Scene and mood: cinematic night football stadium atmosphere at/near [VENUE], packed crowd, dramatic floodlights, light smoke, high contrast sports broadcast style, intense opening-match energy. Split composition: left side inspired by [TEAM A] using [TEAM A COLORS]; right side inspired by [TEAM B] using [TEAM B COLORS]. Use two realistic anonymous football players or stylized public sports poster figures facing each other; do not use official federation logos, club badges, competition logos, or inaccurate real-player faces.
+Scene and mood: cinematic night football stadium atmosphere at/near [VENUE], packed crowd, dramatic floodlights, light smoke, high contrast sports broadcast style, intense opening-match energy. Split composition: left side inspired by [TEAM A] using [TEAM A COLORS]; right side inspired by [TEAM B] using [TEAM B COLORS]. Prioritize compelling sports-poster bust portraits or half-body portraits of featured public football players: [TEAM A] side inspired by [Face-Off Star 1] and [Face-Off Star 2]; [TEAM B] side inspired by [Face-Off Star 1] and [Face-Off Star 2]. A little likeness risk is acceptable because the poster needs star power and a strong visual hook. If exact likeness fails, use realistic elite footballer lookalikes with international-star energy. Do not use official federation logos, club badges, competition logos, fake crests, or severely distorted faces.
 
 Layout hierarchy: top area reserved for the match title and competition label; center area reserved for the main score prediction as the biggest visual element; lower middle reserved for win probability; bottom area reserved for alternative scorelines and key stars. Keep wide safe margins for TikTok/Reels UI. Do not place text over faces. Do not put important text near the right edge or bottom edge.
 
@@ -623,19 +622,8 @@ Typography: bold modern sports typography, very large score, clean readable mobi
 
 Negative prompt: no fake logos, no official crests, no watermark, no random letters, no extra text, no misspelled Vietnamese, no betting language, no clutter, no tiny unreadable text, no distorted faces."
 
-PROMPT C - BACKGROUND ONLY / NO TEXT:
-Viết prompt tiếng Anh theo cấu trúc này, thay đầy đủ dữ liệu trận đấu:
-
-"Create a premium vertical 9:16 football prediction poster background for [TEAM A] vs [TEAM B], [COMPETITION].
-
-Cinematic night football stadium atmosphere at/near [VENUE], packed crowd, dramatic floodlights, light smoke, high contrast sports broadcast style, intense opening-match energy. Split composition: left side inspired by [TEAM A] using [TEAM A COLORS]; right side inspired by [TEAM B] using [TEAM B COLORS]. Two realistic anonymous football players facing each other, dynamic sports poster pose, no real player likeness, no official federation logos, no club badges, no competition logos.
-
-Leave a large clean empty space in the center for the main score overlay. Leave a smaller clean top area for match title. Leave a lower middle area for win probability. Leave a bottom area for alternative scorelines and key player names. Keep all subjects away from the edges, protect faces from text overlay zones, strong contrast, premium viral football prediction card style, clean composition for TikTok/Reels/Shorts.
-
-no text, no letters, no numbers, no logos, no watermark, no random symbols, no real player face, no clutter."
-
-POSTER TEXT OVERLAY PACKAGE:
-Sau 3 prompt, liệt kê thêm gói chữ để người dựng copy vào Canva/CapCut:
+POSTER BAKED-IN TEXT PACKAGE:
+Sau 2 prompt, liệt kê lại gói chữ đã được đưa trực tiếp vào prompt tạo ảnh. Không yêu cầu Canva/CapCut thêm chữ thủ công:
 
 Main Title:
 [TEAM A] vs [TEAM B]
@@ -672,7 +660,7 @@ DESIGN CHECKLIST:
 - Prompt phải có safe margin cho TikTok/Reels.
 - Prompt phải nói tỷ số chính là điểm nhìn lớn nhất.
 - Prompt phải cấm logo giả, watermark, random letters và chữ ngoài danh sách.
-- Nếu công cụ tạo ảnh thường lỗi chữ, khuyến nghị dùng PROMPT C và thêm chữ thủ công.
+- Nếu công cụ tạo ảnh thường lỗi chữ, giảm số dòng chữ trong prompt nhưng vẫn render trực tiếp trên ảnh; không chuyển sang workflow thêm chữ thủ công.
 
 ━━━━━━━━━━━━━━━━━━━━
 PHẦN 9B — 5 AI IMAGE PROMPTS FOR SHORT VIDEO
@@ -684,73 +672,75 @@ Mục tiêu:
 
 - Tạo đủ nguyên liệu hình ảnh cho một video prediction ngắn, đẹp, đồng bộ style.
 - Mỗi ảnh phục vụ một cảnh rõ ràng trong video.
-- Ưu tiên tạo background/cầu thủ/không khí, không giao cho AI ảnh viết chữ.
-- Text, tỷ số, xác suất và caption sẽ được thêm thủ công bằng Canva/CapCut để tránh sai chính tả.
+- AUTO TEXT ON IMAGE: mỗi ảnh phải render sẵn chữ trong prompt ảnh. Không yêu cầu Canva/CapCut thêm chữ thủ công.
+- Vì chữ được render trực tiếp trong ảnh, mọi dòng text phải ngắn, rõ, ít dấu phức tạp, và được khóa chính xác trước khi viết prompt.
 
 Yêu cầu chung cho cả 5 ảnh:
 
 - Tỷ lệ dọc 9:16.
 - Phong cách cinematic football, broadcast sports poster, premium, high contrast.
-- Không có chữ trên ảnh.
+- Có chữ trên ảnh, nhưng chỉ đúng các dòng trong mục "Baked-in text trên ảnh".
 - Không có logo, watermark, huy hiệu giả, nhãn phụ, ký tự ngẫu nhiên.
-- Không render mặt cầu thủ thật nếu không chắc chính xác; ưu tiên cầu thủ realistic anonymous theo màu áo/quốc kỳ.
-- Chừa khoảng trống an toàn để thêm text thủ công bằng Canva/CapCut.
+- Ưu tiên chân dung, hình bán thân hoặc action portrait của cầu thủ nổi bật để ảnh có sức hút; chấp nhận một ít rủi ro likeness.
+- Nếu render mặt thật lỗi, dùng cầu thủ realistic anonymous nhưng vẫn giữ vibe ngôi sao bóng đá quốc tế.
+- Bố trí text nằm sẵn trong vùng an toàn TikTok/Reels, không sát mép phải, không quá thấp, không đè lên mặt cầu thủ.
 - Không đặt chủ thể quá sát mép ảnh.
-- Không để vùng mặt cầu thủ trùng với khu vực dự kiến đặt text.
-- Mỗi prompt phải ghi rõ mục đích cảnh và text overlay gợi ý để dựng video.
+- Không để vùng mặt cầu thủ trùng với khu vực text.
+- Mỗi prompt phải ghi rõ mục đích cảnh, "Baked-in text trên ảnh", và prompt phải nhắc chính xác các dòng chữ đó.
+- Cuối mỗi prompt phải có text lock kiểu: `only the exact provided text, no extra text, no random letters, no misspelled Vietnamese, no logos, no watermark.`
 
 Trả về đúng 5 prompt theo format:
 
-1. OPENING PREDICTION CARD BACKGROUND
+1. OPENING PREDICTION CARD WITH TEXT
    Mục đích:
-   Nền cho cảnh mở đầu hiển thị tỷ số chính thật lớn.
+   Cảnh mở đầu hiển thị tỷ số chính thật lớn, chữ đã nằm sẵn trên ảnh.
 
-Text overlay gợi ý:
+Baked-in text trên ảnh:
 [TEAM A] ** - ** [TEAM B]
 
 Prompt:
-Viết một prompt ảnh tiếng Anh, mô tả poster nền dọc 9:16 cho trận [TEAM A] vs [TEAM B], có không khí trận đấu lớn, hai màu chủ đạo theo hai đội, sân vận động cinematic, trung tâm có khoảng trống lớn để đặt tỷ số. Bắt buộc kết thúc bằng:
-no text, no letters, no logos, no watermark.
+Viết một prompt ảnh tiếng Anh, mô tả prediction card dọc 9:16 cho trận [TEAM A] vs [TEAM B], có không khí trận đấu lớn, hai màu chủ đạo theo hai đội, sân vận động cinematic. Prompt phải yêu cầu render chính xác dòng baked-in text ở trung tâm, tỷ số là chữ lớn nhất ảnh, font thể thao hiện đại, tương phản cao, dễ đọc trên điện thoại. Bắt buộc kết thúc bằng:
+only the exact provided text, no extra text, no random letters, no misspelled text, no logos, no watermark.
 
-2. FLASHBACK / HISTORY VIBE BACKGROUND
+2. FLASHBACK / HISTORY VIBE WITH TEXT
    Mục đích:
-   Nền gợi lại ký ức, lịch sử đối đầu, bối cảnh khai màn hoặc câu chuyện cảm xúc của trận đấu.
+   Cảnh gợi lại ký ức, lịch sử đối đầu, bối cảnh khai màn hoặc câu chuyện cảm xúc của trận đấu, chữ đã nằm sẵn trên ảnh.
 
-Text overlay gợi ý:
+Baked-in text trên ảnh:
 
 [HOOK FLASHBACK / HISTORY NGẮN]
 
 Prompt:
-Viết một prompt ảnh tiếng Anh, mô tả scene bóng đá hoài niệm nhưng hiện đại, sân vận động cinematic, ánh sáng cảm xúc, màu sắc gợi hai đội, không dùng ảnh thật từ trận cũ nếu chưa có quyền, có khoảng trống để thêm text ngắn. Bắt buộc kết thúc bằng:
-no text, no letters, no logos, no watermark.
+Viết một prompt ảnh tiếng Anh, mô tả scene bóng đá hoài niệm nhưng hiện đại, sân vận động cinematic, ánh sáng cảm xúc, màu sắc gợi hai đội, không dùng ảnh thật từ trận cũ nếu chưa có quyền. Prompt phải yêu cầu render chính xác dòng baked-in text ở upper third, typography đậm, dễ đọc, không đè lên mặt người. Bắt buộc kết thúc bằng:
+only the exact provided text, no extra text, no random letters, no misspelled Vietnamese, no logos, no watermark.
 
 3. TEAM A ADVANTAGE VISUAL
    Mục đích:
    Hình thể hiện lợi thế lớn nhất của Team A, ví dụ sân nhà, kiểm soát trung tuyến, tốc độ biên, pressing, set-piece hoặc chiều sâu đội hình.
 
-Text overlay gợi ý:
+Baked-in text trên ảnh:
 [TEAM A ADVANTAGE NGẮN]
 
 Prompt:
-Viết một prompt ảnh tiếng Anh, mô tả cầu thủ realistic anonymous lấy cảm hứng từ [TEAM A], mặc màu áo/quốc kỳ phù hợp, đang thể hiện điểm mạnh chiến thuật lớn nhất của Team A. Hình phải có năng lượng mạnh, thể thao, cinematic, có khoảng trống để thêm text. Bắt buộc kết thúc bằng:
-no real player face, no text, no letters, no logos, no watermark.
+Viết một prompt ảnh tiếng Anh, mô tả chân dung, hình bán thân hoặc action portrait lấy cảm hứng từ cầu thủ nổi bật nhất của [TEAM A], mặc màu áo/quốc kỳ phù hợp, đang thể hiện điểm mạnh chiến thuật lớn nhất của Team A. Hình phải có năng lượng mạnh, thể thao, cinematic, có sức hút như poster ngôi sao bóng đá quốc tế. Chấp nhận một ít rủi ro likeness; nếu mặt thật lỗi, dùng elite footballer lookalike nhưng không làm hình quá anonymous. Prompt phải yêu cầu render chính xác dòng baked-in text ở vùng an toàn, typography đậm, dễ đọc, không đè lên mặt cầu thủ. Bắt buộc kết thúc bằng:
+only the exact provided text, no extra text, no random letters, no misspelled Vietnamese, no fake logos, no watermark, no severely distorted faces.
 
 4. TEAM B DANGER VISUAL
    Mục đích:
    Hình cảnh báo mối nguy hiểm lớn nhất từ Team B, ví dụ phản công, tốc độ biên, bóng chết, thủ môn xuất sắc, tiền đạo mục tiêu hoặc pressing.
 
-Text overlay gợi ý:
+Baked-in text trên ảnh:
 [TEAM B DANGER NGẮN]
 
 Prompt:
-Viết một prompt ảnh tiếng Anh, mô tả cầu thủ realistic anonymous lấy cảm hứng từ [TEAM B], mặc màu áo/quốc kỳ phù hợp, đang thể hiện mối nguy hiểm lớn nhất của Team B. Hình nên có cảm giác tốc độ, áp lực, dramatic lighting, sports broadcast style, có khoảng trống để thêm text. Bắt buộc kết thúc bằng:
-no real player face, no text, no letters, no logos, no watermark.
+Viết một prompt ảnh tiếng Anh, mô tả chân dung, hình bán thân hoặc action portrait lấy cảm hứng từ cầu thủ nổi bật nhất của [TEAM B], mặc màu áo/quốc kỳ phù hợp, đang thể hiện mối nguy hiểm lớn nhất của Team B. Hình nên có cảm giác tốc độ, áp lực, dramatic lighting, sports broadcast style, có sức hút như poster ngôi sao bóng đá quốc tế. Chấp nhận một ít rủi ro likeness; nếu mặt thật lỗi, dùng elite footballer lookalike nhưng không làm hình quá anonymous. Prompt phải yêu cầu render chính xác dòng baked-in text ở vùng an toàn, typography đậm, dễ đọc, không đè lên mặt cầu thủ. Bắt buộc kết thúc bằng:
+only the exact provided text, no extra text, no random letters, no misspelled Vietnamese, no fake logos, no watermark, no severely distorted faces.
 
-5. FINAL SCORE / CTA BACKGROUND
+5. FINAL SCORE / CTA CARD WITH TEXT
    Mục đích:
-   Nền cho cảnh cuối hiển thị tỷ số chính, hai tỷ số phụ, xác suất và câu hỏi kéo comment.
+   Cảnh cuối hiển thị tỷ số chính, hai tỷ số phụ, xác suất và câu hỏi kéo comment, chữ đã nằm sẵn trên ảnh.
 
-Text overlay gợi ý:
+Baked-in text trên ảnh:
 [TEAM A] ** - ** [TEAM B]
 TỶ SỐ PHỤ
 [TEAM A] ** - ** [TEAM B]
@@ -758,16 +748,16 @@ TỶ SỐ PHỤ
 [CTA COMMENT]
 
 Prompt:
-Viết một prompt ảnh tiếng Anh, mô tả background prediction closing dọc 9:16 cho [TEAM A] vs [TEAM B], hai đội face-off trực diện, màu sắc chia hai bên theo đội, nền sân vận động tối cinematic, trung tâm và phần dưới có khoảng trống lớn để đặt tỷ số, xác suất và CTA. Bắt buộc kết thúc bằng:
-no text, no letters, no logos, no watermark.
+Viết một prompt ảnh tiếng Anh, mô tả prediction closing card dọc 9:16 cho [TEAM A] vs [TEAM B], hai đội face-off trực diện, màu sắc chia hai bên theo đội, nền sân vận động tối cinematic. Prompt phải yêu cầu render chính xác toàn bộ baked-in text theo thứ bậc rõ ràng: tỷ số chính lớn nhất ở giữa, nhãn tỷ số phụ nhỏ hơn, hai tỷ số phụ ở phần dưới, CTA nằm trên vùng UI đáy TikTok/Reels. Bắt buộc kết thúc bằng:
+only the exact provided text, no extra text, no random letters, no misspelled Vietnamese, no logos, no watermark.
 
 Lưu ý:
 
 - Không tạo ảnh ngay, chỉ viết 5 prompt ảnh.
-- Không để AI ảnh tự viết tiếng Việt.
+- Không dùng prompt kiểu `no text` cho 5 ảnh này; tất cả chữ phải nằm sẵn trong prompt ảnh.
 - Nếu trận có đội được dự đoán thắng rõ ràng, ảnh 3 nên ưu tiên đội đó.
 - Nếu trận cân bằng, ảnh 3 và ảnh 4 phải có mức độ thị giác ngang nhau.
-- Các text overlay gợi ý phải ngắn, dễ đọc trên điện thoại, không quá 5-7 từ mỗi dòng.
+- Baked-in text phải ngắn, dễ đọc trên điện thoại, không quá 5-7 từ mỗi dòng nếu có thể.
 
 ━━━━━━━━━━━━━━━━━━━━
 PHẦN 10 — VOICE ADAM AI SCRIPT / SHORT VIDEO VOICE-OVER
@@ -795,8 +785,9 @@ Quy tắc bắt buộc khi viết giọng Adam:
 - Không dùng chữ số trong phần thoại. Tất cả tỷ số, phần trăm, năm, phút, thứ hạng phải viết bằng chữ tiếng Việt.
 - Dùng dấu ". . ." và dấu phẩy để tạo nhịp ngắt hơi tự nhiên.
 - VIẾT HOA các từ cần nhấn mạnh.
-- Chèn audio tag biểu cảm tiếng Anh trong dấu ngoặc vuông, ví dụ: [excited], [confident], [playful], [professional], [dramatic], [serious], [cheerful], [calm], [funny].
-- Không lạm dụng audio tag quá dày. Mỗi hai đến ba câu chèn một tag là đủ.
+- Chèn audio tag biểu cảm tiếng Anh trong dấu ngoặc vuông để AI diễn sâu hơn, ví dụ: [excited], [cheerful], [energetic], [calm], [serious], [dramatic], [confident], [sarcastic], [playful], [professional], [funny], [laughing], [chuckles], [speaking fast], [speaking slowly], [conversational], [announcer style].
+- Đan xen tag liên tục nhưng không làm rối câu; mỗi đoạn ngắn nên có một tag phù hợp với cảm xúc của đoạn.
+- Vẫn thể hiện cảm xúc bằng nhịp câu, dấu ngắt ". . .", từ mồi tự nhiên và cách chọn từ: "Hahaha", "Nói rõ trước", "Nói thẳng", "Nhưng khoan", "Chốt lại", "Nghe căng đấy", "Đây mới là điểm gãy".
 - Kết thúc bằng "dứt!" hoặc "Dứt lẹ!"
 - Chỉ xuất phần kịch bản thoại sạch, không giải thích thêm.
 
