@@ -287,36 +287,23 @@ Mexico nhập trận mạnh, cố ghi bàn sớm để biến Azteca thành lợ
 🗣️ DEBATE LINE:  
 Mexico không thắng trận này bằng danh tiếng; họ chỉ thắng nếu khóa được đúng một thứ: cú phản công đầu tiên của South Africa.
 
-## PHẦN 9 - FINAL VIRAL IMAGE OUTPUT / PREDICTION CARD
+## PHẦN 9 - FINAL VIRAL IMAGE OUTPUT / MATCH PREVIEW POSTER
 
 ━━━━━━━━━━━━━━━━━━━━  
 🎨 FINAL IMAGE OUTPUT CONCEPT  
 ━━━━━━━━━━━━━━━━━━━━
 
 Image Type:  
-Premium vertical 9:16 football prediction poster for TikTok/Reels/Shorts, hướng tới khán giả Việt Nam.
+Premium vertical 9:16 football match preview / analysis poster for TikTok/Reels/Shorts, hướng tới khán giả Việt Nam.
 
 Main Title:  
 MEXICO vs NAM PHI
 
 Subtitle:  
-DỰ ĐOÁN KHAI MÀN WORLD CUP 2026
+WORLD CUP 2026 - TRẬN MỞ MÀN
 
 Main Visual Focus:  
-Hai đội đối đầu trực diện ở hai bên, nền sân vận động Azteca cinematic, ánh sáng mạnh, khán đài dày, năng lượng khai màn World Cup. Trung tâm ảnh là tỷ số dự đoán MEXICO 2 - 1 NAM PHI. Ưu tiên chân dung hoặc hình bán thân thể thao của các cầu thủ nổi bật để poster có sức hút: Santiago Gimenez, Edson Alvarez, Teboho Mokoena, Lyle Foster. Nếu render mặt thật lỗi, dùng cầu thủ realistic anonymous nhưng vẫn giữ vibe ngôi sao bóng đá quốc tế.
-
-Main Prediction:  
-MEXICO 2 - 1 NAM PHI
-
-Win Probability:  
-Mexico thắng: 55%  
-Hòa: 26%  
-Nam Phi thắng: 19%
-
-Alternative Scorelines:
-
-1. Mexico 1 - 0 Nam Phi — 15%
-2. Mexico 1 - 1 Nam Phi — 14%
+Hai đội đối đầu trực diện ở hai bên, nền sân Mexico City Stadium / Estadio Azteca cinematic, ánh sáng mạnh, khán đài dày, năng lượng khai màn World Cup. Trung tâm ảnh là thông điệp "PHÂN TÍCH TRƯỚC TRẬN" hoặc "KÝ ỨC 2010 TRỞ LẠI", không phải tỷ số hoặc bảng xác suất. Ưu tiên chân dung hoặc hình bán thân thể thao của các cầu thủ nổi bật để poster có sức hút: Santiago Gimenez, Edson Alvarez, Teboho Mokoena, Lyle Foster. Nếu render mặt thật lỗi, dùng cầu thủ realistic anonymous nhưng vẫn giữ vibe ngôi sao bóng đá quốc tế.
 
 Confidence:  
 Medium
@@ -325,11 +312,13 @@ Key Stars:
 
 Mexico:
 
-- Santiago Gimenez
+- Raul Jimenez
 - Edson Alvarez
+- Julian Quinones
 
 Nam Phi:
 
+- Ronwen Williams
 - Teboho Mokoena
 - Lyle Foster
 
@@ -337,8 +326,8 @@ Visual Face-Off Stars:
 
 Mexico:
 
-- Santiago Gimenez
 - Edson Alvarez
+- Santiago Gimenez
 
 Nam Phi:
 
@@ -346,136 +335,110 @@ Nam Phi:
 - Lyle Foster
 
 One-Line Tactical Reason:  
-Mexico kiểm soát tuyến giữa tốt hơn, nhưng Nam Phi rất nguy hiểm khi phản công.
+Mexico có lợi thế sân nhà, nhưng Nam Phi rất nguy hiểm nếu được phản công vào khoảng trống.
 
 Viral Caption On Image:  
-Chủ nhà thắng dễ hay Nam Phi tạo địa chấn?
+Chủ nhà mở hội hay Nam Phi tạo bất ngờ?
 
 Text Lock For Image:
 
 Allowed Visible Text:
 
 MEXICO vs NAM PHI  
-DỰ ĐOÁN KHAI MÀN WORLD CUP 2026  
-MEXICO 2 - 1 NAM PHI  
-Mexico thắng: 55%  
-Hòa: 26%  
-Nam Phi thắng: 19%  
-Tỷ số phụ  
-Mexico 1 - 0 Nam Phi — 15%  
-Mexico 1 - 1 Nam Phi — 14%  
-Mexico kiểm soát tuyến giữa tốt hơn, nhưng Nam Phi rất nguy hiểm khi phản công.  
-Chủ nhà thắng dễ hay Nam Phi tạo địa chấn?
+WORLD CUP 2026  
+TRẬN MỞ MÀN  
+PHÂN TÍCH TRƯỚC TRẬN  
+KÝ ỨC 2010 TRỞ LẠI  
+CHỦ NHÀ MỞ HỘI HAY NAM PHI TẠO BẤT NGỜ?
 
 Design Layout:
 
 - Top 15%: tên trận và giải đấu.
-- Middle 45%: hai đội đối đầu + tỷ số chính thật lớn.
-- Lower middle 25%: thanh xác suất thắng/hòa/thua.
-- Bottom 15%: 2 tỷ số phụ + key stars.
+- Middle 50%: hai đội đối đầu trực diện, mặt/cầu thủ/visual là điểm nhìn chính.
+- Lower middle 20%: "PHÂN TÍCH TRƯỚC TRẬN" hoặc "KÝ ỨC 2010 TRỞ LẠI".
+- Bottom 15%: câu hỏi kéo bình luận.
 - Không nhồi quá nhiều chữ.
 - Font lớn, đậm, dễ đọc trên điện thoại.
 - Không đặt chữ đè lên mặt cầu thủ.
-- Nếu AI ảnh hay sai chữ, giảm số dòng chữ nhưng vẫn render trực tiếp trong prompt ảnh.
+- Không hiển thị phần trăm, tỷ lệ, xác suất, tỷ số phụ hoặc nhiều tỷ số trên poster.
 
 ### PROMPT A - DETAILED VIETNAMESE POSTER PROMPT
 
 Tạo poster bóng đá dọc 9:16 cao cấp cho TikTok/Reels/Shorts, hướng tới khán giả Việt Nam.
 
-Trận đấu:
-Mexico vs Nam Phi
+Trận đấu: Mexico vs Nam Phi
 
-Giải đấu:
-Khai màn World Cup 2026 - Bảng A
+Giải đấu: FIFA World Cup 2026 - Group A, Match 1
 
-Sân:
-Estadio Azteca / Mexico City Stadium
+Sân: Mexico City Stadium / Estadio Azteca, Mexico City
 
-Phong cách hình ảnh: Poster dự đoán bóng đá kiểu broadcast thể thao cao cấp, cinematic, ánh đèn sân vận động mạnh, không khí World Cup căng thẳng, tương phản cao, bố cục rõ ràng, dễ đọc trên điện thoại. Không dùng logo FIFA giả, không dùng huy hiệu đội tuyển giả nếu không có asset chính thức.
+Phong cách hình ảnh: Poster phân tích trước trận kiểu broadcast thể thao cao cấp, cinematic, ánh đèn sân vận động mạnh, không khí khai màn World Cup, tương phản cao, bố cục rõ ràng, dễ đọc trên điện thoại. Không dùng logo FIFA giả, không dùng huy hiệu đội tuyển giả nếu không có asset chính thức. Bối cảnh phải có cảm giác sân vận động thật, ánh sáng mạnh, khói nhẹ, khán đài đông, không khí trước giờ bóng lăn căng và có năng lượng lễ hội.
 
-Bố cục: Khung dọc 9:16, chừa safe margin cho giao diện TikTok. Tỷ số chính và xác suất thắng là điểm nhìn lớn nhất. Không nhồi chữ như infographic dài. Không để chữ sát mép ảnh. Không để chữ đè lên mặt cầu thủ. Không để TikTok UI che tỷ số, phần trăm hoặc tên đội.
+Bố cục: Khung dọc 9:16, chừa safe margin cho giao diện TikTok/Reels/Shorts. Hai đội đối đầu và bối cảnh trận mở màn là điểm nhìn lớn nhất. Không nhồi chữ như infographic dài. Không để chữ sát mép ảnh. Không để chữ đè lên mặt cầu thủ. Không để TikTok UI che tên trận, câu hỏi hoặc CTA. Không đưa phần trăm, xác suất, tỷ số phụ hoặc nhiều tỷ số lên ảnh.
 
-Phần trên: Tiêu đề lớn bằng tiếng Việt "MEXICO vs NAM PHI". Dòng phụ "DỰ ĐOÁN KHAI MÀN WORLD CUP 2026". Phần này cần rõ, đậm, có khoảng trống đủ an toàn, không sát mép.
+Phần trên: Tiêu đề lớn "MEXICO vs NAM PHI". Dòng phụ "WORLD CUP 2026" và "TRẬN MỞ MÀN". Phần này cần rõ, đậm, có khoảng trống đủ an toàn, không sát mép.
 
-Phần giữa: Hai đội đối đầu trực diện. Bên trái là Mexico với màu xanh lá, trắng, đỏ. Bên phải là Nam Phi với màu xanh lá, vàng, đen. Có thể sử dụng chân dung hoặc hình bán thân phong cách thể thao của 2 cầu thủ nổi bật mỗi bên: Mexico gồm Santiago Gimenez và Edson Alvarez; Nam Phi gồm Teboho Mokoena và Lyle Foster. Ưu tiên visual có mặt cầu thủ vì poster cần sức hút mạnh. Nếu không thể render mặt thật chính xác, hãy tạo cầu thủ realistic anonymous nhưng vẫn giữ vibe giống ngôi sao bóng đá quốc tế.
+Phần giữa: Hai đội đối đầu trực diện. Bên trái là Mexico với màu xanh lá, trắng, đỏ. Bên phải là Nam Phi với màu xanh lá, vàng, đen. Có thể sử dụng chân dung hoặc hình bán thân phong cách thể thao của 2 cầu thủ nổi bật mỗi bên: Mexico gồm Edson Alvarez và Santiago Gimenez; Nam Phi gồm Teboho Mokoena và Lyle Foster. Ưu tiên visual có mặt cầu thủ vì poster cần sức hút mạnh. Nếu không thể render mặt thật chính xác, hãy tạo cầu thủ realistic anonymous nhưng vẫn giữ vibe giống ngôi sao bóng đá quốc tế.
 
-Trung tâm poster phải có tỷ số thật lớn: "MEXICO 2 - 1 NAM PHI". Đặt ở trung tâm, cỡ chữ cực lớn, font thể thao hiện đại, màu trắng hoặc vàng sáng có viền tối để nổi bật trên nền sân.
+Trung tâm poster ưu tiên hiển thị thông điệp thật lớn: "PHÂN TÍCH TRƯỚC TRẬN". Có thể đặt thêm dòng ngắn "KÝ ỨC 2010 TRỞ LẠI" để gợi hoài niệm. Không đặt tỷ số chính làm text lớn nhất. Không hiển thị bảng phần trăm hoặc tỷ số phụ.
 
-Phần dưới tỷ số: Hiển thị xác suất thắng thật rõ: "Mexico thắng: 55%", "Hòa: 26%", "Nam Phi thắng: 19%". Có thể dùng thanh phần trăm hoặc ba ô nhỏ, nhưng không làm giống giao diện cá cược. Đây là nội dung phân tích bóng đá.
-
-Phần cuối: Hiển thị "Tỷ số phụ", sau đó "Mexico 1 - 0 Nam Phi — 15%" và "Mexico 1 - 1 Nam Phi — 14%". Thêm dòng chiến thuật ngắn: "Mexico kiểm soát tuyến giữa tốt hơn, nhưng Nam Phi rất nguy hiểm khi phản công." Thêm caption gây tranh luận trên ảnh: "Chủ nhà thắng dễ hay Nam Phi tạo địa chấn?" Không thêm chữ khác ngoài danh sách được phép.
+Phần cuối: Hiển thị câu hỏi kéo bình luận "CHỦ NHÀ MỞ HỘI HAY NAM PHI TẠO BẤT NGỜ?" Câu này phải nằm trong vùng an toàn, không quá thấp để tránh bị UI TikTok che. Không thêm chữ khác ngoài danh sách được phép.
 
 TEXT LOCK - QUY TẮC CHỐNG SAI CHÍNH TẢ: Toàn bộ chữ trên ảnh phải đúng 100% như danh sách. Không tự thêm chữ mới, không thêm watermark, không thêm slogan phụ. Không viết sai dấu tiếng Việt. Không dùng tiếng Anh ngoài tên giải, tên riêng hoặc tên đội đã xác minh. Nếu không render được tiếng Việt chính xác, hãy giữ bố cục sạch và giảm chữ, không tự bịa text.
 
-DANH SÁCH CHỮ ĐƯỢC PHÉP HIỂN THỊ: MEXICO vs NAM PHI; DỰ ĐOÁN KHAI MÀN WORLD CUP 2026; MEXICO 2 - 1 NAM PHI; Mexico thắng: 55%; Hòa: 26%; Nam Phi thắng: 19%; Tỷ số phụ; Mexico 1 - 0 Nam Phi — 15%; Mexico 1 - 1 Nam Phi — 14%; Mexico kiểm soát tuyến giữa tốt hơn, nhưng Nam Phi rất nguy hiểm khi phản công.; Chủ nhà thắng dễ hay Nam Phi tạo địa chấn?
+DANH SÁCH CHỮ ĐƯỢC PHÉP HIỂN THỊ: MEXICO vs NAM PHI; WORLD CUP 2026; TRẬN MỞ MÀN; PHÂN TÍCH TRƯỚC TRẬN; KÝ ỨC 2010 TRỞ LẠI; CHỦ NHÀ MỞ HỘI HAY NAM PHI TẠO BẤT NGỜ?
 
-Yêu cầu thiết kế: Toàn bộ chữ trên ảnh dùng tiếng Việt. Typography đậm, hiện đại, dễ đọc trên màn hình điện thoại. Tỷ số chính và xác suất thắng là điểm nhìn lớn nhất. Không nhồi quá nhiều chữ. Dùng tương phản cao giữa chữ và nền. Không để chữ sát mép ảnh. Không để TikTok UI che tỷ số, phần trăm hoặc tên đội. Nền sân vận động cinematic, ánh sáng mạnh, khói nhẹ, không khí khai mạc World Cup. Poster phải nhìn như prediction card viral, không phải infographic dài.
+Yêu cầu thiết kế: Typography đậm, hiện đại, dễ đọc trên màn hình điện thoại. Tên trận hoặc "PHÂN TÍCH TRƯỚC TRẬN" là text lớn nhất poster. Không hiển thị xác suất thắng/hòa/thua trên poster. Không hiển thị tỷ số phụ, tỷ lệ phần trăm hoặc nhiều tỷ số trên poster. Dùng tương phản cao giữa chữ và nền. Nền sân vận động cinematic, ánh sáng mạnh, khói nhẹ, không khí trận mở màn World Cup. Poster phải nhìn như match preview / analysis card viral, không phải infographic dài hoặc bảng dự đoán xác suất. Bố cục sạch, ít chữ, đủ khoảng trống thở, nhìn 3 giây là hiểu đây là trận mở màn có ký ức 2010 và áp lực chủ nhà.
 
-Negative prompt: Không logo FIFA giả, không huy hiệu đội tuyển giả, không watermark, không chữ thừa, không ký tự ngẫu nhiên, không sai chính tả tiếng Việt, không biến dạng mặt nghiêm trọng, không mặt cầu thủ méo dị dạng, không bố cục rối, không chữ nhỏ khó đọc, không ngôn ngữ cá cược.
+Negative prompt: Không logo FIFA giả, không huy hiệu đội tuyển giả, không watermark, không chữ thừa, không ký tự ngẫu nhiên, không sai chính tả tiếng Việt, không biến dạng mặt, không gương mặt cầu thủ thật nếu không render chính xác, không bố cục rối, không chữ nhỏ khó đọc, không ngôn ngữ cá cược, không odds, không tỷ lệ cược, không phần trăm xác suất, không bảng thắng/hòa/thắng, không tỷ số phụ.
 
 ### PROMPT B - ENGLISH FULL POSTER WITH TEXT
 
-Create a premium vertical 9:16 football prediction poster for Vietnamese TikTok/Reels/Shorts audience: Mexico vs Nam Phi, opening match of World Cup 2026 Group A.
+Create a premium vertical 9:16 football match preview poster for Vietnamese TikTok/Reels/Shorts audience: Mexico vs Nam Phi, opening match of FIFA World Cup 2026 Group A.
 
-Scene and mood: cinematic football stadium atmosphere at Estadio Azteca / Mexico City Stadium, packed crowd, dramatic floodlights, light smoke, high contrast premium sports broadcast style, tense World Cup opening-match energy. Split composition: left side is Mexico using green, white and red; right side is Nam Phi using green, yellow and black. Use compelling sports-poster bust portraits or half-body portraits of featured public football players if the image model can render them well: Mexico side inspired by Santiago Gimenez and Edson Alvarez; Nam Phi side inspired by Teboho Mokoena and Lyle Foster. A little face-rendering risk is acceptable because the poster needs star power and visual hook. If exact likeness fails, use realistic elite footballer lookalike silhouettes with international-star energy. Do not use fake FIFA logos, fake federation crests, club badges, or distorted faces.
+Scene and mood: cinematic football stadium atmosphere at Mexico City Stadium / Estadio Azteca, packed crowd, dramatic floodlights, light smoke, high contrast premium sports broadcast style, tense World Cup opening-match energy and a nostalgic hint of the 2010 opener. Split composition: left side is Mexico using green, white and red; right side is Nam Phi using green, yellow and black. Use compelling sports-poster bust portraits or half-body portraits of featured public football players if the image model can render them well: Mexico side inspired by Edson Alvarez and Santiago Gimenez; Nam Phi side inspired by Teboho Mokoena and Lyle Foster. If exact likeness fails, use realistic elite footballer lookalike silhouettes with international-star energy. Do not use fake FIFA logos, fake federation crests, club badges, or distorted faces.
 
-Layout hierarchy: top area for the Vietnamese match title and subtitle; center area for the main score prediction as the biggest visual element; lower middle for win probability; bottom area for alternative scorelines, tactical line and debate caption. Keep wide TikTok safe margins. Do not place text over faces. Do not put important text near the right edge or bottom edge.
+Layout hierarchy: top area for the Vietnamese match title and competition label; center area for the two-team face-off and "PHÂN TÍCH TRƯỚC TRẬN" as the biggest visual message; lower middle reserved for "KÝ ỨC 2010 TRỞ LẠI"; bottom area reserved for a debate question. Keep wide TikTok/Reels safe margins. Do not place text over faces. Do not put important text near the right edge or bottom edge. Do not include probabilities, win percentages, odds-like tables, alternative scorelines, or multiple score predictions on the poster.
 
 Visible text, exactly as written:
 MEXICO vs NAM PHI
-DỰ ĐOÁN KHAI MÀN WORLD CUP 2026
-MEXICO 2 - 1 NAM PHI
-Mexico thắng: 55%
-Hòa: 26%
-Nam Phi thắng: 19%
-Tỷ số phụ
-Mexico 1 - 0 Nam Phi — 15%
-Mexico 1 - 1 Nam Phi — 14%
-Mexico kiểm soát tuyến giữa tốt hơn, nhưng Nam Phi rất nguy hiểm khi phản công.
-Chủ nhà thắng dễ hay Nam Phi tạo địa chấn?
+WORLD CUP 2026
+TRẬN MỞ MÀN
+PHÂN TÍCH TRƯỚC TRẬN
+KÝ ỨC 2010 TRỞ LẠI
+CHỦ NHÀ MỞ HỘI HAY NAM PHI TẠO BẤT NGỜ?
 
-Typography: bold modern sports typography, very large score, clean readable mobile layout, strong contrast, premium viral prediction card style, not a long infographic.
+Typography: bold modern sports typography, clean readable mobile layout, strong contrast, premium viral match-preview card style, not a long infographic and not an odds/probability card.
 
-Negative prompt: no fake FIFA logo, no fake federation crests, no watermark, no random letters, no extra text, no misspelled Vietnamese, no betting language, no clutter, no tiny unreadable text, no severely distorted faces.
+Negative prompt: no fake FIFA logo, no fake federation crests, no watermark, no random letters, no extra text, no misspelled Vietnamese, no betting language, no odds, no win percentages, no probability table, no alternative scorelines, no clutter, no tiny unreadable text, no severely distorted faces.
 
 ### POSTER BAKED-IN TEXT PACKAGE
 
-Danh sách chữ này phải được đưa trực tiếp vào prompt tạo ảnh. Không dùng Canva/CapCut để thêm text sau.
-
 Main Title: MEXICO vs NAM PHI  
-Subtitle: DỰ ĐOÁN KHAI MÀN WORLD CUP 2026  
-Main Score: MEXICO 2 - 1 NAM PHI
-
-Win Probability:
-
-- Mexico thắng: 55%
-- Hòa: 26%
-- Nam Phi thắng: 19%
-
-Alternative Scorelines:
-
-- Tỷ số phụ
-- Mexico 1 - 0 Nam Phi — 15%
-- Mexico 1 - 1 Nam Phi — 14%
+Subtitle: WORLD CUP 2026  
+Context: TRẬN MỞ MÀN  
+Main Message: PHÂN TÍCH TRƯỚC TRẬN  
+Match Hook: KÝ ỨC 2010 TRỞ LẠI
 
 Key Stars:
 
-- Mexico: Santiago Gimenez, Edson Alvarez
-- Nam Phi: Teboho Mokoena, Lyle Foster
+- Mexico: Raul Jimenez, Edson Alvarez, Julian Quinones
+- Nam Phi: Ronwen Williams, Teboho Mokoena, Lyle Foster
 
 Short Viral Caption:  
-Chủ nhà thắng dễ hay Nam Phi tạo địa chấn?
+CHỦ NHÀ MỞ HỘI HAY NAM PHI TẠO BẤT NGỜ?
 
 ## PHẦN 9B - 5 AI IMAGE PROMPTS FOR SHORT VIDEO
 
-1. OPENING PREDICTION CARD WITH TEXT  
-   Mục đích: Cảnh mở đầu hiển thị tỷ số chính thật lớn, chữ đã nằm sẵn trên ảnh.
+1. OPENING MATCH PREVIEW CARD WITH TEXT  
+   Mục đích: Cảnh mở đầu hiển thị tên trận và bối cảnh thật lớn, chữ đã nằm sẵn trên ảnh.
 
 Baked-in text trên ảnh:  
-MEXICO 2 - 1 NAM PHI
+MEXICO vs NAM PHI  
+TRẬN MỞ MÀN
 
 Prompt:  
-Create a vertical 9:16 premium football prediction card for Mexico vs Nam Phi, opening match of World Cup 2026, cinematic stadium atmosphere at Estadio Azteca / Mexico City Stadium, split-color composition with Mexico green-white-red on the left and Nam Phi green-yellow-black on the right, packed crowd, dramatic floodlights, light smoke, strong contrast, premium viral sports poster style. Use compelling half-body sports-poster portraits inspired by Santiago Gimenez and Edson Alvarez on the Mexico side, Teboho Mokoena and Lyle Foster on the Nam Phi side; if exact likeness fails, use realistic elite footballer lookalikes with star energy. Render the exact baked-in text "MEXICO 2 - 1 NAM PHI" in the center as the biggest element, bold modern sports typography, white or bright gold letters with dark outline, perfectly readable on a phone screen. Keep TikTok/Reels safe margins, do not place text over faces, no fake FIFA logo, no fake federation badges. Text lock: only the exact provided text, no extra text, no random letters, no misspelled text, no logos, no watermark.
+Create a vertical 9:16 premium football match preview card for Mexico vs Nam Phi, opening match of World Cup 2026, cinematic stadium atmosphere at Mexico City Stadium / Estadio Azteca, split-color composition with Mexico green-white-red on the left and Nam Phi green-yellow-black on the right, packed crowd, dramatic floodlights, light smoke, strong contrast, premium viral sports poster style. Use compelling half-body sports-poster portraits inspired by Edson Alvarez and Santiago Gimenez on the Mexico side, Teboho Mokoena and Lyle Foster on the Nam Phi side; if exact likeness fails, use realistic elite footballer lookalikes with star energy. Render the exact baked-in text "MEXICO vs NAM PHI" and "TRẬN MỞ MÀN" in the center as the biggest elements, bold modern sports typography, perfectly readable on a phone screen. Keep TikTok/Reels safe margins, do not place text over faces, no fake FIFA logo, no fake federation badges. only the exact provided text, no extra text, no random letters, no misspelled text, no logos, no watermark, no odds, no percentages, no alternative scorelines.
 
 2. FLASHBACK / HISTORY VIBE WITH TEXT  
    Mục đích: Gợi lại ký ức opener 2010 và trận tái ngộ năm 2026, chữ đã nằm sẵn trên ảnh.
@@ -484,86 +447,98 @@ Baked-in text trên ảnh:
 Ký ức 2010 trở lại
 
 Prompt:  
-Create a vertical 9:16 cinematic football poster scene with a nostalgic yet modern World Cup opening-match atmosphere, subtle visual memory of 2010 without using real footage, stadium lights, emotional crowd energy, Mexico green-white-red tones blending with Nam Phi green-yellow-black tones, premium sports poster style. Include dramatic player portrait silhouettes with recognizable star-poster energy, not bland anonymous figures. Render the exact baked-in text "Ký ức 2010 trở lại" in the upper third, large bold readable Vietnamese typography, high contrast, clean spacing, no text over faces. Keep TikTok/Reels safe margins, no official logos, no badges, no archival photo reproduction. Text lock: only the exact provided text, no extra text, no random letters, no misspelled Vietnamese, no logos, no watermark.
+Create a vertical 9:16 cinematic football poster scene with a nostalgic yet modern World Cup opening-match atmosphere, subtle visual memory of 2010 without using real footage, stadium lights, emotional crowd energy, Mexico green-white-red tones blending with Nam Phi green-yellow-black tones, premium sports poster style. Include dramatic player portrait silhouettes with recognizable star-poster energy, not bland anonymous figures. Render the exact baked-in text "Ký ức 2010 trở lại" in the upper third, large bold readable Vietnamese typography, high contrast, clean spacing, no text over faces. Keep TikTok/Reels safe margins, no official logos, no badges, no archival photo reproduction. only the exact provided text, no extra text, no random letters, no misspelled Vietnamese, no logos, no watermark.
 
 3. TEAM A ADVANTAGE VISUAL WITH TEXT  
-   Mục đích: Thể hiện lợi thế sân nhà và chiều sâu tấn công của Mexico, chữ đã nằm sẵn trên ảnh.
+   Mục đích: Thể hiện lợi thế sân nhà và tuyến giữa của Mexico, chữ đã nằm sẵn trên ảnh.
 
 Baked-in text trên ảnh:  
-Mexico kiểm soát tuyến giữa
+Mexico có lợi thế sân nhà
 
 Prompt:  
-Create a vertical 9:16 cinematic sports poster visual focused on Mexico's midfield control, using a powerful half-body or action portrait inspired by Edson Alvarez with green-white-red Mexico color energy, dramatic stadium floodlights at Estadio Azteca, energetic home crowd, high contrast, premium broadcast football style. A little face-rendering risk is acceptable for stronger star appeal; if exact likeness fails, use an elite footballer lookalike with the same commanding defensive-midfielder vibe. Render the exact baked-in text "Mexico kiểm soát tuyến giữa" in a bold readable headline area on the left or upper third, strong contrast, mobile-first typography, no text over the player face. Keep TikTok/Reels safe margins, no fake federation logos, no watermark. Text lock: only the exact provided text, no extra text, no random letters, no misspelled Vietnamese, no logos, no watermark.
+Create a vertical 9:16 cinematic sports poster visual focused on Mexico's home advantage, using a powerful half-body or action portrait inspired by Edson Alvarez with green-white-red Mexico color energy, dramatic stadium floodlights at Mexico City Stadium / Estadio Azteca, energetic home crowd, high contrast, premium broadcast football style. If exact likeness fails, use an elite footballer lookalike with the same commanding midfield-leader vibe. Render the exact baked-in text "Mexico có lợi thế sân nhà" in a bold readable headline area on the left or upper third, strong contrast, mobile-first typography, no text over the player face. Keep TikTok/Reels safe margins, no fake federation logos, no watermark. only the exact provided text, no extra text, no random letters, no misspelled Vietnamese, no logos, no watermark.
 
 4. TEAM B DANGER VISUAL WITH TEXT  
    Mục đích: Cảnh báo mối nguy phản công của Nam Phi, chữ đã nằm sẵn trên ảnh.
 
 Baked-in text trên ảnh:  
-Nam Phi phản công rất gắt
+Nam Phi phản công rất nhanh
 
 Prompt:  
-Create a vertical 9:16 cinematic football poster visual focused on Nam Phi's counter-attack threat, using a dynamic action portrait inspired by Lyle Foster in green-yellow-black Nam Phi color energy, bursting into open space, dramatic lighting, intense motion blur, sports broadcast style, stadium background. A little face-rendering risk is acceptable for stronger star appeal; if exact likeness fails, use an elite footballer lookalike with fast striker energy. Render the exact baked-in text "Nam Phi phản công rất gắt" in the upper third, bold modern sports typography, high contrast, readable on mobile, no text over the player face. Keep TikTok/Reels safe margins, no fake federation badges, no watermark. Text lock: only the exact provided text, no extra text, no random letters, no misspelled Vietnamese, no logos, no watermark.
+   Create a vertical 9:16 cinematic football poster visual focused on Nam Phi's counter-attack threat, using a dynamic action portrait inspired by Lyle Foster in green-yellow-black Nam Phi color energy, bursting into open space, dramatic lighting, intense motion blur, sports broadcast style, stadium background.    If exact likeness fails, use an elite footballer lookalike with fast striker energy. Render the exact baked-in text "Nam Phi phản công rất nhanh" in the upper third, bold modern sports typography, high contrast, readable on mobile, no text over the player face. Keep TikTok/Reels safe margins, no fake federation badges, no watermark. only the exact provided text, no extra text, no random letters, no misspelled Vietnamese, no logos, no watermark.
 
-5. FINAL SCORE / CTA CARD WITH TEXT  
-   Mục đích: Cảnh cuối hiển thị tỷ số chính, tỷ số phụ, xác suất và câu hỏi kéo comment, chữ đã nằm sẵn trên ảnh.
+5. FINAL CTA CARD WITH TEXT  
+   Mục đích: Cảnh cuối hiển thị câu hỏi kéo comment, chữ đã nằm sẵn trên ảnh. Không hiển thị tỷ số phụ, xác suất hoặc bảng thắng/hòa/thắng.
 
 Baked-in text trên ảnh:  
-MEXICO 2 - 1 NAM PHI  
-Tỷ số phụ  
-Mexico 1 - 0 Nam Phi — 15%  
-Mexico 1 - 1 Nam Phi — 14%  
-Chủ nhà thắng dễ hay Nam Phi tạo địa chấn?
+Chủ nhà mở hội hay Nam Phi tạo bất ngờ?
 
 Prompt:  
-Create a vertical 9:16 premium football prediction closing card for Mexico vs Nam Phi, split face-off composition, Mexico green-white-red on one side and Nam Phi green-yellow-black on the other, dark cinematic stadium, dramatic floodlights, compelling player portrait face-off inspired by Santiago Gimenez, Edson Alvarez, Teboho Mokoena and Lyle Foster, subjects away from edges, premium viral sports poster style. Render the exact baked-in text in a clean hierarchy: "MEXICO 2 - 1 NAM PHI" as the largest center text; "Tỷ số phụ" below it as a small section label; "Mexico 1 - 0 Nam Phi — 15%" and "Mexico 1 - 1 Nam Phi — 14%" as two readable lower lines; "Chủ nhà thắng dễ hay Nam Phi tạo địa chấn?" as the final bottom-safe CTA above the TikTok UI zone. Use bold modern sports typography, high contrast, readable on mobile, no text over faces. Keep TikTok/Reels safe margins, no fake federation logos, no watermark. Text lock: only the exact provided text, no extra text, no random letters, no misspelled Vietnamese, no logos, no watermark.
+Create a vertical 9:16 premium football match preview closing card for Mexico vs Nam Phi, split face-off composition, Mexico green-white-red on one side and Nam Phi green-yellow-black on the other, dark cinematic stadium, dramatic floodlights, compelling player portrait face-off inspired by Edson Alvarez, Santiago Gimenez, Teboho Mokoena and Lyle Foster, subjects away from edges, premium viral sports poster style. Render the exact baked-in text "Chủ nhà mở hội hay Nam Phi tạo bất ngờ?" clearly in the center or above the bottom safe area, bold modern sports typography, high contrast, readable on mobile, no text over faces. Keep TikTok/Reels safe margins, no fake federation logos, no watermark. only the exact provided text, no extra text, no random letters, no misspelled Vietnamese, no logos, no watermark, no odds, no percentages, no alternative scorelines.
 
 ## PHẦN 10 - VOICE ADAM AI SCRIPT / SHORT VIDEO VOICE-OVER
 
-[excited] Hahaha . . . xin chào mấy dợ! Mexico gặp Nam Phi mở màn World Cup hai nghìn hai mươi sáu, nghe phát là ký ức hai nghìn mười chạy về liền, kiểu đang ngồi yên tự nhiên tiếng vuvuzela vang trong đầu.
+[excited] Hahaha . . . anh em ơi! Mexico gặp Nam Phi mở màn World Cup hai nghìn hai mươi sáu, nghe phát là ký ức hai nghìn mười chạy về liền.
 
-[professional] Nói rõ trước nha . . . đây là góc nhìn phân tích bóng đá, dựa trên phong độ, đội hình, lối chơi và bối cảnh trước trận, không phải nội dung tài chính hay cá cược.
+[professional] Nói rõ trước nha . . . đây là góc nhìn phân tích bóng đá, không phải nội dung cá cược.
 
-[confident] Tôi nghiêng Mexico thắng hai một. Không phải vì họ là chủ nhà rồi auto hơn đâu nha, bóng đá mà auto là dễ ăn quả lừa lắm đó các dợ.
+[confident] Tôi nghiêng Mexico thắng hai một. Không phải vì họ là chủ nhà thì auto thắng đâu, bóng đá mà auto là dễ ăn quả lừa lắm.
 
-[energetic] Lý do chính là Mexico có nhiều cách tạo sát thương hơn: sân nhà Azteca, tuyến giữa có Alvarez khóa nhịp, biên có tốc độ, và còn quân bài từ ghế dự bị.
+[energetic] Mexico có lợi thế sân nhà, nhiều cầu thủ tạo đột biến hơn, và tuyến giữa có Alvarez để giữ nhịp, tranh chấp, chặn phản công.
 
-[playful] Nhưng khoan . . . Nam Phi không dễ ăn đâu. Nếu Mokoena thoát được lớp pressing đầu tiên, Foster có khoảng trống sau lưng hậu vệ biên Mexico, trận này đổi màu rất nhanh.
+[playful] Nhưng Nam Phi không dễ ăn. Nếu Mokoena thoát được vòng vây ở giữa sân, rồi Foster có khoảng trống sau lưng hậu vệ biên Mexico, trận này đổi màu rất nhanh.
 
-[sarcastic] Đây là đúng kiểu phản công mà đội cửa dưới thích lắm, ít bóng không sao, một đường ngon là đủ làm cả sân nín vài giây . . . lúc đó chủ nhà cũng hơi rén nhẹ nha mấy ní.
+[serious] Điểm gãy nằm ở nửa đầu hiệp một. Mexico mà ghi sớm, sân nhà sẽ thành lợi thế cực lớn. Nhưng nếu Nam Phi đứng vững lâu, áp lực có thể quay ngược lại chủ nhà.
 
-[serious] Điểm gãy nằm ở tuyến giữa. Mexico phải khóa được nhịp chuyền của Nam Phi, vì chỉ cần một đường thoát bóng sạch là Foster có đất chạy.
+[funny] Nói nôm na là Mexico phải thắng bằng cái đầu lạnh, chứ không phải cứ khán đài đông là bóng tự chui vào lưới đâu nha.
 
-[funny] Còn Nam Phi thì phải chịu được áp lực Azteca trong nửa đầu hiệp một, chứ thủng sớm là khó kéo lại lắm, lúc đó đá bóng mà áp lực như trả lời tin nhắn con dợ hỏi: anh đang ở đâu.
+[calm] Kịch bản phụ là Mexico thắng một không nếu trận bị kéo chặt, hoặc hòa một một nếu chủ nhà nóng máy chậm.
 
-[calm] Tỷ số phụ có xác suất thấp hơn: Mexico thắng một không nếu trận bị kéo chặt và bàn thắng đến từ bóng cố định, hoặc hòa một một nếu chủ nhà nóng máy chậm, kiểu khởi động lâu hơn cả mở app xem highlight.
+[conversational] Chốt lại, anh em thấy Mexico hai một hợp lý chưa, hay Nam Phi lại viết tiếp ký ức mở màn cho cả mạng xã hội ngồi cãi nhau?
 
-[conversational] Chốt lại, anh em thấy Mexico thắng hai một hợp lý chưa, hay Nam Phi lại viết tiếp ký ức mở màn cho cả mạng xã hội ngồi cãi nhau?
-
-[cheerful] Comment tỷ số của các ông, like và follow để xem chi tiết các trận tiếp theo của World Cup . . . dứt!
+[cheerful] Comment tỷ số của các ông, like và follow để xem tiếp World Cup . . . dứt!
 
 ## PHẦN 11 - CONTENT SUPPORT
 
+### Title tối ưu tìm kiếm
+
+🔥 Nhận định phân tích Mexico vs Nam Phi World Cup 2026: Trận mở màn & ký ức 2010
+
+### Phần đăng phân tích nhận định cuối cùng để đăng kèm 5 ảnh
+
+Mexico vs Nam Phi là trận mở màn World Cup 2026 tại Mexico City Stadium. Cặp này có cái duyên rất thú vị: năm 2010, chính hai đội từng hòa 1-1 trong ngày khai màn. Vì vậy trận này không chỉ là bóng đá, mà còn có cả yếu tố hoài niệm và áp lực rất lớn cho đội chủ nhà.
+
+Về thế trận, Mexico nhỉnh hơn. Họ có lợi thế sân nhà, chất lượng đội hình đồng đều hơn và nhiều cách tạo cơ hội hơn: kiểm soát bóng ở giữa sân, kéo Nam Phi lùi sâu, đánh biên, tạt bóng hoặc dùng các pha xử lý cá nhân để phá thế trận. Nếu Alvarez giữ nhịp tốt, Mexico sẽ dễ kiểm soát khu vực giữa sân và hạn chế những pha phản công ngay sau khi mất bóng.
+
+Nhưng Nam Phi không phải đội dễ bắt nạt. Họ có thể đá thấp, giữ đội hình chặt rồi chờ Mexico dâng cao. Chỉ cần Mokoena thoát được áp lực ở giữa sân, Foster có khoảng trống sau lưng hậu vệ biên Mexico, trận này có thể đổi màu rất nhanh.
+
+Điểm mấu chốt nằm ở 30 phút đầu. Nếu Mexico ghi bàn sớm, sân nhà sẽ thành lợi thế cực lớn. Nhưng nếu càng đá càng sốt ruột, áp lực khai màn có thể quay ngược lại chính họ.
+
+Anh em nghĩ chủ nhà mở hội, hay Nam Phi lại tạo bất ngờ?
+
+Lưu ý nếu chạy quảng bá: nên bỏ câu dự đoán tỷ số, không dùng phần trăm, tỷ lệ hoặc wording dễ bị hiểu là cá cược.
+
 ### 5 hook mở đầu video bằng tiếng Việt
 
-1. Mexico có sân nhà, nhưng South Africa có đúng kiểu phản công khiến opener dễ nổ drama.
-2. Trận mở màn này không chỉ là World Cup 2026, mà là ký ức 2010 quay lại với vai trò đảo ngược.
-3. Mexico nhỉnh hơn, nhưng nếu không ghi sớm, Azteca có thể tự biến thành áp lực.
-4. South Africa không cần cầm bóng nhiều; họ chỉ cần một đường phản công đúng lúc.
-5. Dự đoán Mexico 2-1, nhưng đây là tỷ số có rủi ro thật.
+1. Mexico có sân nhà, nhưng Nam Phi có đúng kiểu phản công khiến trận mở màn dễ căng.
+2. Trận này không chỉ là World Cup 2026, mà còn là ký ức 2010 quay lại.
+3. Mexico nhỉnh hơn, nhưng nếu không ghi sớm, áp lực sân nhà sẽ rất nặng.
+4. Nam Phi không cần cầm bóng nhiều; họ chỉ cần một pha phản công đúng lúc.
+5. Tôi nghiêng Mexico 2-1, nhưng đây không phải trận thắng dễ.
 
 ### 5 hook mở đầu video bằng tiếng Anh
 
 1. Mexico have the home edge, but South Africa have the counter-attacking trap.
 2. The 2010 opener returns, but this time Mexico carry the pressure.
 3. Mexico should win, unless the first thirty minutes turn into a mental test.
-4. South Africa do not need possession; they need one clean transition.
+4. South Africa do not need much possession; they need one clean counter.
 5. My call is Mexico 2-1, but this opener is not risk-free.
 
 ### 3 caption TikTok tiếng Việt
 
-1. Mexico 2-1 South Africa: chủ nhà nhỉnh hơn, nhưng phản công mới là thứ đáng sợ.
-2. Opener World Cup không bao giờ dễ. Mexico phải thắng bằng kỷ luật, không phải danh tiếng.
-3. South Africa có thể làm trận này căng hơn nhiều người nghĩ.
+1. Mexico vs Nam Phi gợi lại ký ức 2010. Chủ nhà nhỉnh hơn, nhưng chỉ cần một pha phản công tốt là trận này có thể đổi màu.
+2. Tôi nghiêng Mexico thắng 2-1. Lợi thế sân nhà là thật, nhưng áp lực khai màn cũng không hề nhẹ.
+3. Nam Phi có thể không cầm bóng nhiều, nhưng Foster có khoảng trống là Mexico sẽ rất mệt. Anh em chọn tỷ số nào?
 
 ### 3 caption TikTok tiếng Anh
 
@@ -574,14 +549,14 @@ Create a vertical 9:16 premium football prediction closing card for Mexico vs Na
 ### 5 câu hỏi kéo comment
 
 1. Anh em chọn Mexico thắng 2-1 hay hòa 1-1?
-2. South Africa có đủ sức sống sót qua áp lực 30 phút đầu không?
-3. Ochoa nên bắt chính hay Mexico nên dùng Raul Rangel?
-4. Nếu Mexico thủng trước, họ còn kiểm soát được tâm lý không?
-5. Cầu thủ nào dễ định đoạt trận này: Jimenez, Quinones, Williams hay Foster?
+2. Nam Phi có chịu nổi áp lực 30 phút đầu không?
+3. Nếu Mexico ghi bàn sớm, trận này có vỡ nhanh không?
+4. Nếu Nam Phi phản công tốt, chủ nhà có dễ bị cuống không?
+5. Ai dễ định đoạt trận này hơn: Jimenez, Quinones, Williams hay Foster?
 
 ### 10 hashtag phù hợp
 
-#Mexico #SouthAfrica #WorldCup2026 #FIFAWorldCup #MatchPrediction #BongDa #DuDoanBongDa #TikTokBongDa #ElTri #BafanaBafana
+#Mexico #NamPhi #WorldCup2026 #FIFAWorldCup #BongDa #DuDoanBongDa #TikTokBongDa #MexicoVsNamPhi #LichThiDauWorldCup #WorldCup
 
 ## PHẦN 12 - SOURCE CHECK
 
