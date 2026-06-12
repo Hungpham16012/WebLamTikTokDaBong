@@ -294,3 +294,5 @@ Không tạo ảnh ngay.
 Chỉ trả về research, bảng dữ liệu, 2 prompt tạo ảnh cuối cùng và nội dung hỗ trợ TikTok.
 
 Hai FINAL AI IMAGE PROMPT phải trả bằng tiếng Anh. Caption TikTok tiếng Tây Ban Nha và tiếng Việt chỉ nằm ở PHẦN 7.
+<!-- GHI CHU XUAT FILE:
+Neu nguoi dung yeu cau chay prompt cho mot doi tuyen cu the, hay tao mot file Markdown rieng trong `docs/prompt_content/` de luu toan bo research, bang du lieu, 2 final image prompt va TikTok content support. Khong do toan bo ket qua dai vao cua so chat; trong chat chi tom tat file da tao va rui ro chinh. -->

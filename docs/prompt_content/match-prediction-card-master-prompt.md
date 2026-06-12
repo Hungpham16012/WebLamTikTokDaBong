@@ -13,8 +13,8 @@ Mục tiêu:
 - Có lập trường rõ ràng: đội nào có cửa thắng cao hơn, điểm yếu nào đáng lo, kịch bản nào dễ xảy ra nhất.
 - Văn phong phải sắc, có nhận định, hợp kênh bóng đá TikTok/Reels/Shorts; không viết kiểu báo cáo trung tính hoặc quá an toàn.
 - Đưa ra xác suất thắng/hòa/thua.
-- Dự đoán tỷ số chính.
-- Đưa thêm 2 tỷ số phụ có xác suất thấp hơn.
+- Dự đoán 1 tỷ số chính duy nhất cho prediction card, poster, carousel và voice-over chính.
+- Riêng phần "Descript/caption phân tích nhận định cuối cùng" trong PHẦN 11 được thêm đúng 2 tỷ số phụ để gợi thảo luận. Không đưa tỷ số phụ vào prediction card, poster, carousel hoặc voice-over chính.
 - Output cuối phải đủ đẹp, súc tích và hấp dẫn để biến thành ảnh prediction card cho TikTok/Reels/Shorts.
 
 VĂN PHONG BẮT BUỘC:
@@ -280,9 +280,7 @@ Team B Win:
 Sau đó đưa ra:
 
 Most Likely Score:
-Alternative Score 1:
-Alternative Score 2:
-Risk Score:
+Risk Scenario:
 Main Betting-Free Football Take:
 Why This Prediction Can Fail:
 Total Goals Prediction:
@@ -297,7 +295,7 @@ Lưu ý:
 - Xác suất phải hợp lý, không được quá cực đoan nếu hai đội cân bằng.
 - Nếu có nhiều biến số như chấn thương, lịch thi đấu dày, chưa có đội hình chính thức, phải giảm confidence.
 - Tỷ số chính phải là kịch bản có khả năng cao nhất.
-- Hai tỷ số phụ phải có phần trăm thấp hơn tỷ số chính.
+- Không đưa thêm Alternative Score / tỷ số phụ trong prediction card chính. Rủi ro chỉ mô tả bằng chữ trong Risk Scenario hoặc Why This Prediction Can Fail. Ngoại lệ duy nhất là PHẦN 11, mục Descript/caption phân tích nhận định cuối cùng, được nêu thêm đúng 2 tỷ số phụ.
 - Main Betting-Free Football Take phải là một nhận định bóng đá sắc, không dùng ngôn ngữ cá cược.
 - Why This Prediction Can Fail phải nêu rõ điều kiện khiến dự đoán chính bị sai, ví dụ: thẻ đỏ, thủ môn chơi xuất thần, đội mạnh dứt điểm tệ, đội cửa dưới phản công quá hiệu quả.
 
@@ -369,11 +367,6 @@ Draw: **%
 ✅ FINAL SCORE PREDICTION:
 [ĐỘI A] ** - ** [ĐỘI B]
 
-🎯 ALTERNATIVE SCORELINES:
-
-1. [ĐỘI A] ** - ** [ĐỘI B] — \_\_%
-2. [ĐỘI A] ** - ** [ĐỘI B] — \_\_%
-
 🎬 MOST LIKELY MATCH STORY:
 Viết 4–6 dòng mô tả trận đấu có thể diễn ra như thế nào.
 
@@ -384,7 +377,7 @@ Góc làm video TikTok/Reels/Shorts dễ viral nhất.
 Viết 1 câu gây tranh luận nhưng không xúc phạm, dùng được làm caption hoặc text overlay.
 
 ━━━━━━━━━━━━━━━━━━━━
-PHẦN 9 — FINAL VIRAL IMAGE OUTPUT / MATCH PREVIEW POSTER
+PHẦN 9 — FINAL VIRAL IMAGE OUTPUT / CAROUSEL MATCH PREVIEW POSTER
 ━━━━━━━━━━━━━━━━━━━━
 
 Sau khi phân tích xong, hãy tạo thêm một phần output chuyên dùng để làm ảnh dọc 9:16 cho TikTok/Reels/Shorts.
@@ -395,7 +388,9 @@ Mục tiêu:
 - Nhìn vào là biết ngay đây là trận nào, bối cảnh gì và điểm nóng bóng đá nằm ở đâu.
 - Tối ưu để đăng organic và có thể dùng làm creative bán lịch/điều hướng giỏ hàng an toàn hơn.
 - KHÔNG đưa phần trăm thắng/hòa/thua lên poster.
+- KHÔNG đưa tỷ số chính lên ảnh mở đầu / cover poster.
 - KHÔNG đưa tỷ số phụ, xác suất phụ hoặc bảng xác suất lên poster.
+- Nếu làm carousel, tỷ số chính chỉ được xuất hiện ở ảnh cuối như một cú chốt nội dung. Các ảnh trước chỉ dùng để kéo sự tò mò bằng bối cảnh, điểm nóng, lợi thế chiến thuật và câu hỏi tranh luận.
 - KHÔNG làm bố cục giống bảng soi kèo, bảng odds, bảng cá cược hoặc giao diện dự đoán có xác suất.
 - Ưu tiên "phân tích trước trận", "điểm nóng", "lịch thi đấu", "trận đáng xem" nếu mục tiêu là chạy quảng bá.
 - Có 3 cầu thủ nổi bật nhất mỗi đội trong phần data, nhưng không bắt buộc hiển thị toàn bộ trên ảnh.
@@ -457,7 +452,7 @@ Viral Caption On Image:
 Viết 1 câu ngắn, mạnh, dễ gây tranh luận.
 
 Text Lock For Image:
-Liệt kê chính xác các dòng chữ được phép xuất hiện trên ảnh. Tất cả phải bằng tiếng Việt hoặc tên riêng/tên đội đã xác minh. Ưu tiên chữ in hoa cho tên trận, bối cảnh, điểm nóng và câu hỏi kéo bình luận. Không đưa phần trăm, xác suất hoặc tỷ số phụ vào danh sách chữ trên ảnh.
+Liệt kê chính xác các dòng chữ được phép xuất hiện trên ảnh mở đầu / cover. Tất cả phải bằng tiếng Việt hoặc tên riêng/tên đội đã xác minh. Ưu tiên chữ in hoa cho tên trận, bối cảnh, điểm nóng và câu hỏi kéo bình luận. Không đưa tỷ số chính, tỷ số phụ, phần trăm hoặc xác suất vào danh sách chữ trên ảnh mở đầu.
 
 Allowed Visible Text:
 [TEAM A] vs [TEAM B]
@@ -481,7 +476,7 @@ Design Layout:
 - Không để TikTok UI che tên trận, câu hỏi hoặc CTA.
 - Không đặt chữ đè lên mặt cầu thủ.
 - Nếu câu chiến thuật quá dài, ưu tiên bỏ khỏi ảnh hoặc rút còn 1 câu cực ngắn để tránh sai chính tả.
-- Không hiển thị phần trăm, tỷ lệ, xác suất, tỷ số phụ hoặc nhiều tỷ số trên poster.
+- Không hiển thị phần trăm, tỷ lệ, xác suất, tỷ số chính, tỷ số phụ hoặc nhiều tỷ số trên ảnh mở đầu / cover poster.
 
 FINAL IMAGE PROMPT:
 
@@ -512,7 +507,7 @@ Phong cách hình ảnh:
 Poster phân tích trước trận kiểu broadcast thể thao cao cấp, cinematic, ánh đèn sân vận động mạnh, không khí trận đấu lớn, tương phản cao, bố cục rõ ràng, dễ đọc trên điện thoại. Không dùng logo giải đấu giả, không dùng huy hiệu đội tuyển/CLB giả nếu không có asset chính thức. Bối cảnh phải có cảm giác sân vận động thật, ánh sáng mạnh, khói nhẹ, khán đài đông, không khí trước giờ bóng lăn căng và có năng lượng World Cup.
 
 Bố cục:
-Khung dọc 9:16, chừa safe margin cho giao diện TikTok/Reels/Shorts. Hai đội đối đầu và bối cảnh trận đấu là điểm nhìn lớn nhất. Không nhồi chữ như infographic dài. Không để chữ sát mép ảnh. Không để chữ đè lên mặt cầu thủ. Không để TikTok UI che tên trận, câu hỏi hoặc CTA. Không đưa phần trăm, xác suất, tỷ số phụ hoặc nhiều tỷ số lên ảnh.
+Khung dọc 9:16, chừa safe margin cho giao diện TikTok/Reels/Shorts. Hai đội đối đầu và bối cảnh trận đấu là điểm nhìn lớn nhất. Không nhồi chữ như infographic dài. Không để chữ sát mép ảnh. Không để chữ đè lên mặt cầu thủ. Không để TikTok UI che tên trận, câu hỏi hoặc CTA. Đây là ảnh mở đầu / cover carousel nên không đưa tỷ số chính, phần trăm, xác suất, tỷ số phụ hoặc nhiều tỷ số lên ảnh.
 
 Phần trên:
 Tiêu đề lớn:
@@ -567,7 +562,7 @@ Yêu cầu thiết kế:
 - Typography đậm, hiện đại, dễ đọc trên màn hình điện thoại.
 - Tên trận hoặc "PHÂN TÍCH TRƯỚC TRẬN" là text lớn nhất poster.
 - Không hiển thị xác suất thắng/hòa/thua trên poster.
-- Không hiển thị tỷ số phụ, tỷ lệ phần trăm hoặc nhiều tỷ số trên poster.
+- Không hiển thị tỷ số chính, tỷ số phụ, tỷ lệ phần trăm hoặc nhiều tỷ số trên ảnh mở đầu / cover poster.
 - Không nhồi quá nhiều chữ.
 - Dùng tương phản cao giữa chữ và nền.
 - Nền sân vận động cinematic, ánh sáng mạnh, khói nhẹ, không khí trận đấu lớn.
@@ -575,7 +570,7 @@ Yêu cầu thiết kế:
 - Bố cục sạch, ít chữ, đủ khoảng trống thở, nhìn 3 giây là hiểu trận này đáng xem vì điểm nóng nào.
 
 Negative prompt:
-Không logo giả, không huy hiệu giả, không watermark, không chữ thừa, không ký tự ngẫu nhiên, không sai chính tả tiếng Việt, không biến dạng mặt nghiêm trọng, không mặt cầu thủ méo dị dạng, không bố cục rối, không chữ nhỏ khó đọc, không ngôn ngữ cá cược, không odds, không tỷ lệ cược, không phần trăm xác suất, không bảng thắng/hòa/thắng, không tỷ số phụ.
+Không logo giả, không huy hiệu giả, không watermark, không chữ thừa, không ký tự ngẫu nhiên, không sai chính tả tiếng Việt, không biến dạng mặt nghiêm trọng, không mặt cầu thủ méo dị dạng, không bố cục rối, không chữ nhỏ khó đọc, không ngôn ngữ cá cược, không odds, không tỷ lệ cược, không phần trăm xác suất, không bảng thắng/hòa/thắng, không tỷ số chính trên ảnh mở đầu, không tỷ số phụ.
 
 PROMPT B - ENGLISH FULL POSTER WITH TEXT:
 Viết prompt tiếng Anh theo cấu trúc này, thay đầy đủ dữ liệu trận đấu:
@@ -584,7 +579,7 @@ Viết prompt tiếng Anh theo cấu trúc này, thay đầy đủ dữ liệu t
 
 Scene and mood: cinematic night football stadium atmosphere at/near [VENUE], packed crowd, dramatic floodlights, light smoke, high contrast sports broadcast style, intense opening-match energy. Split composition: left side inspired by [TEAM A] using [TEAM A COLORS]; right side inspired by [TEAM B] using [TEAM B COLORS]. Prioritize compelling sports-poster bust portraits or half-body portraits of featured public football players: [TEAM A] side inspired by [Face-Off Star 1] and [Face-Off Star 2]; [TEAM B] side inspired by [Face-Off Star 1] and [Face-Off Star 2]. A little likeness risk is acceptable because the poster needs star power and a strong visual hook. If exact likeness fails, use realistic elite footballer lookalikes with international-star energy. Do not use official federation logos, club badges, competition logos, fake crests, or severely distorted faces.
 
-Layout hierarchy: top area reserved for the match title and competition label; center area reserved for the two-team face-off and "PHÂN TÍCH TRƯỚC TRẬN" as the biggest visual message; lower middle reserved for one short tactical reason or match context; bottom area reserved for a debate question. Keep wide safe margins for TikTok/Reels UI. Do not place text over faces. Do not put important text near the right edge or bottom edge. Do not include probabilities, win percentages, odds-like tables, alternative scorelines, or multiple score predictions on the poster.
+Layout hierarchy: top area reserved for the match title and competition label; center area reserved for the two-team face-off and "PHÂN TÍCH TRƯỚC TRẬN" as the biggest visual message; lower middle reserved for one short tactical reason or match context; bottom area reserved for a debate question. This is the opening / cover image for a carousel, so do not reveal the final score here. Keep wide safe margins for TikTok/Reels UI. Do not place text over faces. Do not put important text near the right edge or bottom edge. Do not include probabilities, win percentages, odds-like tables, final score predictions, alternative scorelines, or multiple score predictions on the poster.
 
 Visible text, exactly as written:
 [TEAM A] vs [TEAM B]
@@ -595,7 +590,7 @@ PHÂN TÍCH TRƯỚC TRẬN
 
 Typography: bold modern sports typography, clean readable mobile layout, strong contrast, premium viral match-preview card style, not a long infographic and not an odds/probability card.
 
-Negative prompt: no fake logos, no official crests, no watermark, no random letters, no extra text, no misspelled Vietnamese, no betting language, no odds, no win percentages, no probability table, no alternative scorelines, no clutter, no tiny unreadable text, no distorted faces."
+Negative prompt: no fake logos, no official crests, no watermark, no random letters, no extra text, no misspelled Vietnamese, no betting language, no odds, no win percentages, no probability table, no final score on the opening carousel image, no alternative scorelines, no clutter, no tiny unreadable text, no distorted faces."
 
 POSTER BAKED-IN TEXT PACKAGE:
 Sau 2 prompt, liệt kê lại gói chữ đã được đưa trực tiếp vào prompt tạo ảnh. Không yêu cầu Canva/CapCut thêm chữ thủ công:
@@ -628,21 +623,22 @@ DESIGN CHECKLIST:
 - Prompt phải có safe margin cho TikTok/Reels.
 - Prompt phải nói tên trận / phân tích trước trận là điểm nhìn lớn nhất.
 - Prompt phải cấm logo giả, watermark, random letters và chữ ngoài danh sách.
-- Prompt phải cấm odds, phần trăm xác suất, bảng thắng/hòa/thắng và tỷ số phụ trên ảnh.
+- Prompt phải cấm odds, phần trăm xác suất, bảng thắng/hòa/thắng, tỷ số chính và tỷ số phụ trên ảnh mở đầu / cover carousel.
 - Nếu công cụ tạo ảnh thường lỗi chữ, giảm số dòng chữ trong prompt nhưng vẫn render trực tiếp trên ảnh; không chuyển sang workflow thêm chữ thủ công.
 
 ━━━━━━━━━━━━━━━━━━━━
-PHẦN 9B — 5 AI IMAGE PROMPTS FOR SHORT VIDEO
+PHẦN 9B — 5 AI IMAGE PROMPTS FOR CAROUSEL POST
 ━━━━━━━━━━━━━━━━━━━━
 
-Sau phần FINAL IMAGE OUTPUT, hãy tạo thêm 5 prompt ảnh riêng biệt để dùng dựng video TikTok/Reels/Shorts dài 35-45 giây.
+Sau phần FINAL IMAGE OUTPUT, hãy tạo thêm 5 prompt ảnh riêng biệt để dùng làm carousel TikTok/Reels/Shorts.
 
 Mục tiêu:
 
-- Tạo đủ nguyên liệu hình ảnh cho một video prediction ngắn, đẹp, đồng bộ style.
-- Mỗi ảnh phục vụ một cảnh rõ ràng trong video.
+- Tạo đủ 5 ảnh cho một carousel prediction ngắn, đẹp, đồng bộ style.
+- Mỗi ảnh phục vụ một nhịp đọc rõ ràng trong carousel.
 - AUTO TEXT ON IMAGE: mỗi ảnh phải render sẵn chữ trong prompt ảnh. Không yêu cầu Canva/CapCut thêm chữ thủ công.
 - Vì chữ được render trực tiếp trong ảnh, mọi dòng text phải ngắn, rõ, ít dấu phức tạp, và được khóa chính xác trước khi viết prompt.
+- Chỉ ảnh cuối được hiển thị tỷ số chính. Ảnh 1 đến ảnh 4 tuyệt đối không hiển thị tỷ số chính, tỷ số phụ, xác suất hoặc phần trăm.
 
 Yêu cầu chung cho cả 5 ảnh:
 
@@ -663,15 +659,15 @@ Trả về đúng 5 prompt theo format:
 
 1. OPENING MATCH PREVIEW CARD WITH TEXT
    Mục đích:
-   Cảnh mở đầu hiển thị tên trận và bối cảnh thật lớn, chữ đã nằm sẵn trên ảnh.
+   Ảnh mở đầu hiển thị tên trận và bối cảnh thật lớn, chữ đã nằm sẵn trên ảnh. Không hiển thị tỷ số ở ảnh này.
 
 Baked-in text trên ảnh:
 [TEAM A] vs [TEAM B]
 PHÂN TÍCH TRƯỚC TRẬN
 
 Prompt:
-Viết một prompt ảnh tiếng Anh, mô tả match preview card dọc 9:16 cho trận [TEAM A] vs [TEAM B], có không khí trận đấu lớn, hai màu chủ đạo theo hai đội, sân vận động cinematic. Prompt phải yêu cầu render chính xác các dòng baked-in text ở trung tâm, tên trận và "PHÂN TÍCH TRƯỚC TRẬN" là chữ lớn nhất ảnh, font thể thao hiện đại, tương phản cao, dễ đọc trên điện thoại. Bắt buộc kết thúc bằng:
-only the exact provided text, no extra text, no random letters, no misspelled text, no logos, no watermark, no odds, no percentages, no alternative scorelines.
+Viết một prompt ảnh tiếng Anh, mô tả match preview card dọc 9:16 cho trận [TEAM A] vs [TEAM B], có không khí trận đấu lớn, hai màu chủ đạo theo hai đội, sân vận động cinematic. Prompt phải yêu cầu render chính xác các dòng baked-in text ở trung tâm, tên trận và "PHÂN TÍCH TRƯỚC TRẬN" là chữ lớn nhất ảnh, font thể thao hiện đại, tương phản cao, dễ đọc trên điện thoại. Không được hiển thị tỷ số chính ở ảnh mở đầu. Bắt buộc kết thúc bằng:
+only the exact provided text, no extra text, no random letters, no misspelled text, no logos, no watermark, no final score, no odds, no percentages, no alternative scorelines.
 
 2. FLASHBACK / HISTORY VIBE WITH TEXT
    Mục đích:
@@ -709,35 +705,38 @@ only the exact provided text, no extra text, no random letters, no misspelled Vi
 
 5. FINAL CTA CARD WITH TEXT
    Mục đích:
-   Cảnh cuối hiển thị câu hỏi kéo comment hoặc CTA mềm, chữ đã nằm sẵn trên ảnh. Không hiển thị tỷ số phụ, xác suất hoặc bảng thắng/hòa/thắng.
+   Ảnh cuối hiển thị tỷ số chính như cú chốt carousel, kèm câu hỏi kéo comment hoặc CTA mềm. Chỉ hiển thị một tỷ số chính, không hiển thị tỷ số phụ, xác suất, phần trăm hoặc bảng thắng/hòa/thắng.
 
 Baked-in text trên ảnh:
+[FINAL SCORE PREDICTION]
 [CTA COMMENT]
 
 Prompt:
-Viết một prompt ảnh tiếng Anh, mô tả closing CTA card dọc 9:16 cho [TEAM A] vs [TEAM B], hai đội face-off trực diện, màu sắc chia hai bên theo đội, nền sân vận động tối cinematic. Prompt phải yêu cầu render chính xác toàn bộ baked-in text theo thứ bậc rõ ràng: CTA nằm rõ ở trung tâm hoặc trên vùng UI đáy TikTok/Reels, dễ đọc trên điện thoại, không đè lên mặt cầu thủ. Bắt buộc kết thúc bằng:
-only the exact provided text, no extra text, no random letters, no misspelled Vietnamese, no logos, no watermark, no odds, no percentages, no alternative scorelines.
+Viết một prompt ảnh tiếng Anh, mô tả final score card dọc 9:16 cho [TEAM A] vs [TEAM B], hai đội face-off trực diện, màu sắc chia hai bên theo đội, nền sân vận động tối cinematic. Prompt phải yêu cầu render chính xác toàn bộ baked-in text theo thứ bậc rõ ràng: [FINAL SCORE PREDICTION] là chữ lớn nhất ở trung tâm ảnh, [CTA COMMENT] nằm rõ ở phía dưới nhưng vẫn trong vùng an toàn TikTok/Reels, dễ đọc trên điện thoại, không đè lên mặt cầu thủ. Bắt buộc kết thúc bằng:
+only the exact provided text, no extra text, no random letters, no misspelled Vietnamese, no logos, no watermark, no odds, no percentages, no alternative scorelines, no extra scorelines.
 
 Lưu ý:
 
 - Không tạo ảnh ngay, chỉ viết 5 prompt ảnh.
 - Không dùng prompt kiểu `no text` cho 5 ảnh này; tất cả chữ phải nằm sẵn trong prompt ảnh.
+- Ảnh 1 đến ảnh 4 không được lộ tỷ số chính. Ảnh 5 bắt buộc hiển thị đúng một tỷ số chính.
 - Nếu trận có đội được dự đoán thắng rõ ràng, ảnh 3 nên ưu tiên đội đó.
 - Nếu trận cân bằng, ảnh 3 và ảnh 4 phải có mức độ thị giác ngang nhau.
 - Baked-in text phải ngắn, dễ đọc trên điện thoại, không quá 5-7 từ mỗi dòng nếu có thể.
 
 ━━━━━━━━━━━━━━━━━━━━
-PHẦN 10 — VOICE ADAM AI SCRIPT / SHORT VIDEO VOICE-OVER
+PHẦN 10 — VOICE ADAM AI SCRIPT / OPTIONAL CAROUSEL NARRATION
 ━━━━━━━━━━━━━━━━━━━━
 
-Sau khi hoàn tất phân tích và prediction card, hãy viết thêm một kịch bản thoại voice-only để dùng với giọng Adam trên ElevenLabs v3.
+Sau khi hoàn tất phân tích và prediction card, hãy viết thêm một kịch bản thoại voice-only tùy chọn để đọc kèm carousel 5 ảnh với giọng Adam trên ElevenLabs v3.
 
 Mục tiêu:
 
-- Dùng cho video TikTok/Reels/Shorts dài khoảng ba mươi lăm đến bốn mươi lăm giây.
-- Mở đầu phải hiện và nói ngay tỷ số chính làm hook.
+- Dùng cho carousel TikTok/Reels/Shorts gồm 5 ảnh, thời lượng đọc khoảng ba mươi lăm đến bốn mươi lăm giây nếu dựng thành video từ carousel.
+- Mở đầu không nói ngay tỷ số chính. Hook phải đến từ bối cảnh trận, điểm nóng chiến thuật hoặc câu hỏi gây tranh luận.
+- Tỷ số chính chỉ nói ở đoạn chốt cuối, đồng bộ với ảnh 5 của carousel.
 - Sau đó phân tích ngắn gọn các luận điểm quan trọng nhất đã có ở các phần trước.
-- Phải nhắc thêm hai tỷ số phụ có xác suất thấp hơn tỷ số chính.
+- Không nhắc tỷ số phụ trong voice carousel. Chỉ chốt một tỷ số chính ở đoạn cuối, đồng bộ với ảnh 5.
 - Phải có nhận định rõ ràng, nghe như người làm bóng đá có quan điểm: đội nào lợi hơn, đội nào dễ bị đánh vào đâu, điều kiện nào làm trận đấu đổi chiều.
 - Tránh giọng "hai đội đều có cơ hội" nếu dữ liệu đã cho thấy một đội nhỉnh hơn. Có thể thừa nhận rủi ro, nhưng vẫn phải chốt lập trường.
 - Giọng vui, tự nhiên, hơi nhây nhẹ, hài hước duyên dáng, nhưng không cà khịa đội bóng, cầu thủ hoặc cổ động viên.
@@ -777,11 +776,13 @@ Ví dụ phong cách hook, không được copy nguyên văn nếu dữ kiện t
 - "Đây là góc nhìn được tổng hợp từ nhiều AI phân tích bóng đá, dựa trên phong độ, đội hình, lối chơi và bối cảnh trước trận."
 - Có thể viết lại câu này tự nhiên hơn, nhưng phải giữ ý: phân tích bóng đá, không cá cược.
 
-3. Nêu tỷ số chính sớm:
+3. Giữ tỷ số chính cho đoạn chốt cuối:
 
-- Nếu [ĐỘI A] thắng: "Tôi nghiêng về [ĐỘI A] thắng [TỶ SỐ CHÍNH BẰNG CHỮ]."
-- Nếu [ĐỘI B] thắng: "Tôi nghiêng về [ĐỘI B] thắng [TỶ SỐ CHÍNH BẰNG CHỮ]."
-- Nếu hòa: "Tôi nghiêng về kịch bản hòa [TỶ SỐ CHÍNH BẰNG CHỮ]."
+- Không lộ tỷ số chính ở phần mở đầu.
+- Sau khi đã phân tích 3-4 luận điểm chính, mới chốt tỷ số.
+- Nếu [ĐỘI A] thắng: "Chốt lại, tôi nghiêng về [ĐỘI A] thắng [TỶ SỐ CHÍNH BẰNG CHỮ]."
+- Nếu [ĐỘI B] thắng: "Chốt lại, tôi nghiêng về [ĐỘI B] thắng [TỶ SỐ CHÍNH BẰNG CHỮ]."
+- Nếu hòa: "Chốt lại, tôi nghiêng về kịch bản hòa [TỶ SỐ CHÍNH BẰNG CHỮ]."
 - Ngay sau tỷ số chính phải có 1 câu "vì sao" thật sắc, ví dụ: "Không phải vì họ nổi tiếng hơn, mà vì trận này họ có nhiều cách tạo sát thương hơn."
 
 4. Phân tích 3-4 luận điểm chính, chọn từ dữ liệu đã research:
@@ -794,10 +795,11 @@ Ví dụ phong cách hook, không được copy nguyên văn nếu dữ kiện t
 - Rủi ro khiến tỷ số có thể lệch khỏi dự đoán chính.
 - Mỗi luận điểm nên có kết luận nhỏ, không chỉ nêu dữ kiện. Ví dụ: "đây là nơi trận đấu có thể gãy", "đây là cửa sống của đội cửa dưới", "đây là cái bẫy của đội cửa trên".
 
-5. Nêu hai tỷ số phụ:
+5. Chỉ dùng một tỷ số chính:
 
-- Phải nói rõ đây là hai kịch bản xác suất thấp hơn.
-- Gắn mỗi tỷ số phụ với một điều kiện bóng đá cụ thể, ví dụ trận bị kéo chậm, bàn thắng đến sớm, đội cửa dưới phản công hiệu quả, hoặc đội mạnh phung phí cơ hội.
+- Không nêu tỷ số phụ trong voice, poster hoặc carousel. Riêng descript/caption phân tích nhận định cuối cùng ở PHẦN 11 được phép nêu đúng 2 tỷ số phụ.
+- Nếu cần nói về khả năng dự đoán sai, chỉ mô tả điều kiện bóng đá: bàn thắng sớm, thẻ đỏ, đội cửa dưới phản công hiệu quả, đội mạnh phung phí cơ hội, hoặc thủ môn chơi xuất thần.
+- Ảnh 5 là nơi duy nhất được hiển thị tỷ số chính.
 
 6. CTA cuối:
 
@@ -820,8 +822,8 @@ PHẦN 11 — CONTENT SUPPORT
 
 Viết thêm:
 
-1 title tối ưu truy vấn tìm kiếm để đăng đầu caption
-1 phần descript/caption phân tích nhận định cuối cùng để đăng kèm ảnh
+1 title/caption headline theo format TikTok cũ để đăng đầu caption
+1 phần descript/caption phân tích nhận định cuối cùng để đăng kèm ảnh theo format caption dài
 5 hook mở đầu video bằng tiếng Việt
 5 hook mở đầu video bằng tiếng Anh
 3 caption TikTok tiếng Việt
@@ -831,13 +833,15 @@ Viết thêm:
 
 Yêu cầu cho CONTENT SUPPORT:
 
-- Title tối ưu tìm kiếm phải dài 70-120 ký tự, có đủ tên 2 đội, giải đấu, năm, và intent chính như "nhận định", "phân tích", "trận mở màn", "dự đoán" nếu phù hợp đăng organic. Không dùng từ cá cược như kèo, odds, tài/xỉu.
-- Title nên đặt trước descript/caption cuối cùng để người dùng có thể copy làm dòng đầu caption TikTok.
-- Phần descript/caption phân tích nhận định cuối cùng dùng khi chỉ đăng carousel 3-5 ảnh, không làm video. Phần này phải dựa trên các thông tin đã kiểm tra ở phần research/source check, không tự bịa đội hình hoặc bối cảnh chưa xác minh.
-- Độ dài descript/caption cuối cùng khoảng 180-280 chữ tiếng Việt. Viết thành 4-6 đoạn ngắn, dễ đọc trên TikTok, không viết thành một khối chữ dài.
-- Cấu trúc descript/caption cuối cùng nên gồm: bối cảnh trận, điểm mạnh của đội nhỉnh hơn, vũ khí của đội còn lại, điểm mấu chốt làm trận đổi chiều, dự đoán tỷ số nếu dùng đăng organic, và câu hỏi kéo comment.
+- Title/caption headline phải theo format cũ kiểu TikTok, đặt ở dòng đầu, có emoji và đủ tên 2 đội, ví dụ: "🔥 Nhận định phân tích 🇰🇷 Hàn Quốc vs Séc 🇨🇿 - Son vs Schick ⭐ World Cup 2026 ⭐". Không viết kiểu title SEO khô.
+- Title/caption headline nên có: emoji mở đầu, cụm "Nhận định phân tích", cờ hoặc tên đội, dấu "-", 1 góc đối đầu/ngôi sao/điểm nóng ngắn, "World Cup 2026". Không dùng từ cá cược như kèo, odds, tài/xỉu.
+- Phần descript/caption phân tích nhận định cuối cùng dùng khi chỉ đăng carousel 3-5 ảnh, không làm video. Phải viết giống caption dài TikTok cũ: nhiều đoạn ngắn, mỗi đoạn 2-4 câu, dễ đọc khi người xem bấm "xem thêm".
+- Độ dài descript/caption cuối cùng khoảng 220-360 chữ tiếng Việt. Không viết thành một khối chữ dài.
+- Cấu trúc descript/caption cuối cùng nên gồm: bối cảnh trận, điểm mạnh của đội nhỉnh hơn, vũ khí của đội còn lại, điểm đáng lo của mỗi đội, điểm mấu chốt làm trận đổi chiều, dự đoán 1 tỷ số chính, đúng 2 tỷ số phụ có điều kiện bóng đá rõ ràng, câu nhắc "Đây là góc nhìn phân tích bóng đá, không phải nội dung cá cược", CTA hỏi tỷ số, hashtag và dòng "Tìm kiếm: ...".
 - Văn phong descript/caption cuối cùng phải có chuyên môn nhưng gần gũi: dùng "hậu vệ biên dâng cao", "khoảng trống sau lưng", "giữ nhịp tuyến giữa", "phản công", "phạt góc/đá phạt", "áp lực sân nhà". Tránh thuật ngữ khó như wing-back, half-space, transition, open play.
-- Nếu có đưa tỷ số trong descript/caption cuối cùng, phải viết rõ đây là góc nhìn phân tích bóng đá, không dùng ngôn ngữ cá cược. Không dùng các từ: kèo, ăn, bắt, nổ, tài/xỉu, vào tiền, tất tay.
+- Trong descript/caption cuối cùng, phải đưa 1 tỷ số chính và đúng 2 tỷ số phụ. Tỷ số phụ phải viết như kịch bản bóng đá có điều kiện, ví dụ: "Hai tỷ số phụ có thể xảy ra: [ĐỘI A] 2-1 [ĐỘI B] nếu..., hoặc [ĐỘI A] 1-1 [ĐỘI B] nếu...". Không đưa thêm tỷ số thứ tư. Phải viết rõ đây là góc nhìn phân tích bóng đá, không dùng ngôn ngữ cá cược. Không dùng các từ: kèo, ăn, bắt, nổ, tài/xỉu, vào tiền, tất tay.
+- Cuối descript/caption cuối cùng phải có hashtag phù hợp trên cùng một dòng hoặc 2 dòng, ví dụ: "#fifaworldcup #nhandinhbongda #football".
+- Sau hashtag, thêm dòng "Tìm kiếm: [truy vấn tiếng Việt ngắn]" theo format cũ để hỗ trợ search trong TikTok, ví dụ: "Tìm kiếm: hàn quốc vs cộng hoà séc".
 - Sau descript/caption cuối cùng, thêm 1 dòng "Lưu ý nếu chạy quảng bá:" và nhắc rằng nếu dùng để promote/ads thì nên bỏ tỷ số dự đoán, phần trăm, tỷ lệ và các câu dễ bị hiểu là cá cược.
 - Hook và caption phải có nhận định, không viết chung chung kiểu "cùng chờ xem".
 - Mỗi hook nên có một góc rõ: cửa trên, cửa dưới, bẫy tâm lý, trận đấu đổi chiều, ngôi sao quyết định, lịch sử đối đầu hoặc áp lực sân nhà.
