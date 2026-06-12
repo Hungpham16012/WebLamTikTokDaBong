@@ -32,18 +32,18 @@ Tóm tắt nhanh:
 
 ## PHẦN 2 - CURRENT FORM & CONTEXT
 
-| Category | Brazil | Morocco | Advantage |
-|---|---|---|---|
-| Recent Form | Brazil thắng Panama 6-2, Egypt 2-1, Croatia 3-1, nhưng vòng loại trước đó rất bất ổn | Morocco có chuỗi tốt: hòa Norway 1-1, thắng Madagascar 4-0, Burundi 5-0, Paraguay 2-1; vừa có khí thế AFCON | Even / Morocco ổn định hơn gần đây |
-| Attacking Output | Vinicius, Raphinha, Martinelli, Cunha, Endrick, Neymar tạo nhiều phương án | Brahim Diaz, Hakimi, Rahimi, El Kaabi, Saibari có tốc độ và kỹ thuật | Brazil |
-| Defensive Stability | Gabriel - Marquinhos rất mạnh, nhưng hai biên dâng cao có thể để lộ khoảng trống | Morocco phòng ngự có tổ chức, nhưng Aguerd rút khỏi squad là mất mát lớn | Brazil nhẹ |
-| Midfield Control | Casemiro, Bruno Guimaraes, Ederson, Paqueta đủ chất tranh chấp và chuyền bóng | Amrabat, Ounahi, El Khannouss, Saibari giàu năng lượng nhưng HLV mới cần ổn định | Brazil nhẹ |
-| Set Pieces | Gabriel, Marquinhos, Bremer, Casemiro là mối đe dọa bóng bổng | Bounou, Hakimi, Amrabat, Diop/Chadi Riad giúp Morocco vẫn rất khó chịu | Even |
-| Transition / Counter Attack | Brazil có Vinicius và Raphinha để đánh rất nhanh | Morocco cực nguy hiểm khi Hakimi dâng, Brahim nhận bóng giữa tuyến, Rahimi/El Kaabi chạy sau lưng | Morocco nhẹ |
-| Squad Depth | Chiều sâu hàng công và tuyến giữa rất mạnh, dù Wesley chấn thương và Neymar chưa chắc đủ thể trạng | Đội hình nhiều cầu thủ châu Âu, nhưng Aguerd và Abde rút lui làm giảm lựa chọn | Brazil |
-| Big Match Experience | Brazil có truyền thống, nhiều sao Champions League và Ancelotti | Morocco có ký ức bán kết World Cup 2022, Bounou/Hakimi/Amrabat rất dày trận lớn | Even |
-| Injury / Suspension Situation | Wesley chấn thương, Ederson được gọi bổ sung; Neymar không được xem là hoàn toàn sung sức | Aguerd và Abde Ezzalzouli rút khỏi squad; Hakimi đã hồi phục vấn đề trước đó, Mazraoui cần kiểm tra vai | Brazil nhẹ |
-| Psychological Momentum | Áp lực cực lớn vì Brazil đã chờ World Cup từ 2002 | Morocco vào vai thách thức, càng hợp tâm lý phá nhịp đội lớn | Morocco về tâm lý, Brazil về chất lượng |
+| Category                      | Brazil                                                                                             | Morocco                                                                                                     | Advantage                               |
+| ----------------------------- | -------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | --------------------------------------- |
+| Recent Form                   | Brazil thắng Panama 6-2, Egypt 2-1, Croatia 3-1, nhưng vòng loại trước đó rất bất ổn               | Morocco có chuỗi tốt: hòa Norway 1-1, thắng Madagascar 4-0, Burundi 5-0, Paraguay 2-1; vừa có khí thế AFCON | Even / Morocco ổn định hơn gần đây      |
+| Attacking Output              | Vinicius, Raphinha, Martinelli, Cunha, Endrick, Neymar tạo nhiều phương án                         | Brahim Diaz, Hakimi, Rahimi, El Kaabi, Saibari có tốc độ và kỹ thuật                                        | Brazil                                  |
+| Defensive Stability           | Gabriel - Marquinhos rất mạnh, nhưng hai biên dâng cao có thể để lộ khoảng trống                   | Morocco phòng ngự có tổ chức, nhưng Aguerd rút khỏi squad là mất mát lớn                                    | Brazil nhẹ                              |
+| Midfield Control              | Casemiro, Bruno Guimaraes, Ederson, Paqueta đủ chất tranh chấp và chuyền bóng                      | Amrabat, Ounahi, El Khannouss, Saibari giàu năng lượng nhưng HLV mới cần ổn định                            | Brazil nhẹ                              |
+| Set Pieces                    | Gabriel, Marquinhos, Bremer, Casemiro là mối đe dọa bóng bổng                                      | Bounou, Hakimi, Amrabat, Diop/Chadi Riad giúp Morocco vẫn rất khó chịu                                      | Even                                    |
+| Transition / Counter Attack   | Brazil có Vinicius và Raphinha để đánh rất nhanh                                                   | Morocco cực nguy hiểm khi Hakimi dâng, Brahim nhận bóng giữa tuyến, Rahimi/El Kaabi chạy sau lưng           | Morocco nhẹ                             |
+| Squad Depth                   | Chiều sâu hàng công và tuyến giữa rất mạnh, dù Wesley chấn thương và Neymar chưa chắc đủ thể trạng | Đội hình nhiều cầu thủ châu Âu, nhưng Aguerd và Abde rút lui làm giảm lựa chọn                              | Brazil                                  |
+| Big Match Experience          | Brazil có truyền thống, nhiều sao Champions League và Ancelotti                                    | Morocco có ký ức bán kết World Cup 2022, Bounou/Hakimi/Amrabat rất dày trận lớn                             | Even                                    |
+| Injury / Suspension Situation | Wesley chấn thương, Ederson được gọi bổ sung; Neymar không được xem là hoàn toàn sung sức          | Aguerd và Abde Ezzalzouli rút khỏi squad; Hakimi đã hồi phục vấn đề trước đó, Mazraoui cần kiểm tra vai     | Brazil nhẹ                              |
+| Psychological Momentum        | Áp lực cực lớn vì Brazil đã chờ World Cup từ 2002                                                  | Morocco vào vai thách thức, càng hợp tâm lý phá nhịp đội lớn                                                | Morocco về tâm lý, Brazil về chất lượng |
 
 Nhận định:
 
@@ -97,19 +97,19 @@ Brazil vào trận với nhiều phương án thắng hơn. Nếu họ kiểm so
 
 ### Brazil Projected XI
 
-| Position | Player | Club | Certainty | Tactical Role | Notes |
-|---|---|---:|---|---|---|
-| GK | Alisson | Liverpool | High | Thủ môn bắt chính | Nền tảng an toàn cho Brazil |
-| RB | Danilo Luiz | Flamengo | Medium | Hậu vệ phải giữ cấu trúc | Wesley chấn thương; có thể dùng Danilo để an toàn hơn |
-| CB | Marquinhos | Paris Saint-Germain | High | Trung vệ chỉ huy | Kinh nghiệm, phát triển bóng |
-| CB | Gabriel Magalhaes | Arsenal | High | Trung vệ lệch trái | Chống bóng bổng và phản công |
-| LB | Alex Sandro | Flamengo | Medium-High | Hậu vệ trái kinh nghiệm | Cần bọc lót khi Vinicius dâng cao |
-| CM | Casemiro | Manchester United | Medium-High | Mỏ neo phòng ngự | Che khoảng trống trước trung vệ |
-| CM | Bruno Guimaraes | Newcastle United | High | Điều phối tuyến giữa | Chuyền tiến bóng, tranh chấp |
-| AM | Lucas Paqueta | Flamengo | Medium | Kết nối tuyến hai | Có thể đổi với Ederson / Neymar tùy thể trạng |
-| RW | Raphinha | Barcelona | High | Cánh phải + bóng chết | Tạo áp lực ở cánh đối diện Vinicius |
-| LW | Vinicius Junior | Real Madrid | High | Ngòi nổ chính | Trận này Brazil cần anh tạo khác biệt |
-| CF | Matheus Cunha | Manchester United | Medium-High | Trung phong di động | RotoWire project Cunha đá cao nhất |
+| Position | Player            |                Club | Certainty   | Tactical Role            | Notes                                                 |
+| -------- | ----------------- | ------------------: | ----------- | ------------------------ | ----------------------------------------------------- |
+| GK       | Alisson           |           Liverpool | High        | Thủ môn bắt chính        | Nền tảng an toàn cho Brazil                           |
+| RB       | Danilo Luiz       |            Flamengo | Medium      | Hậu vệ phải giữ cấu trúc | Wesley chấn thương; có thể dùng Danilo để an toàn hơn |
+| CB       | Marquinhos        | Paris Saint-Germain | High        | Trung vệ chỉ huy         | Kinh nghiệm, phát triển bóng                          |
+| CB       | Gabriel Magalhaes |             Arsenal | High        | Trung vệ lệch trái       | Chống bóng bổng và phản công                          |
+| LB       | Alex Sandro       |            Flamengo | Medium-High | Hậu vệ trái kinh nghiệm  | Cần bọc lót khi Vinicius dâng cao                     |
+| CM       | Casemiro          |   Manchester United | Medium-High | Mỏ neo phòng ngự         | Che khoảng trống trước trung vệ                       |
+| CM       | Bruno Guimaraes   |    Newcastle United | High        | Điều phối tuyến giữa     | Chuyền tiến bóng, tranh chấp                          |
+| AM       | Lucas Paqueta     |            Flamengo | Medium      | Kết nối tuyến hai        | Có thể đổi với Ederson / Neymar tùy thể trạng         |
+| RW       | Raphinha          |           Barcelona | High        | Cánh phải + bóng chết    | Tạo áp lực ở cánh đối diện Vinicius                   |
+| LW       | Vinicius Junior   |         Real Madrid | High        | Ngòi nổ chính            | Trận này Brazil cần anh tạo khác biệt                 |
+| CF       | Matheus Cunha     |   Manchester United | Medium-High | Trung phong di động      | RotoWire project Cunha đá cao nhất                    |
 
 3 vị trí còn tranh chấp của Brazil:
 
@@ -119,19 +119,19 @@ Brazil vào trận với nhiều phương án thắng hơn. Nếu họ kiểm so
 
 ### Morocco Projected XI
 
-| Position | Player | Club | Certainty | Tactical Role | Notes |
-|---|---|---:|---|---|---|
-| GK | Yassine Bounou | Al-Hilal | High | Thủ môn bắt chính | Cầu thủ then chốt nếu bị ép sân |
-| RB | Achraf Hakimi | Paris Saint-Germain | High | Hậu vệ phải tấn công | Đường phản công lớn nhất |
-| CB | Chadi Riad | Crystal Palace | Medium | Trung vệ lệch trái | Aguerd rút lui, cần xác nhận cặp CB |
-| CB | Issa Diop | Fulham | Medium | Trung vệ tranh chấp | Có thể cạnh tranh với Halhal / El Ouahdi |
-| LB | Noussair Mazraoui | Manchester United | Medium-High | Hậu vệ trái/phải linh hoạt | Standard ghi đang quản lý vấn đề vai nhưng dự kiến có thể đá |
-| DM | Sofyan Amrabat | Real Betis | High | Mỏ neo phá nhịp | Chặn Paqueta/Cunha nhận bóng giữa tuyến |
-| CM | Azzedine Ounahi | Girona | Medium-High | Tiền vệ thoát pressing | Kéo bóng khi Morocco phản công |
-| CM | Bilal El Khannouss | VfB Stuttgart | Medium | Sáng tạo tuyến hai | Có thể đá cao hơn nếu cần phản công |
-| RW | Chemsdine Talbi | Sunderland | Medium | Cánh phải tốc độ | Có thể đổi với Rahimi |
-| AM/LW | Brahim Diaz | Real Madrid | High | Ngôi sao sáng tạo | Người tạo khoảnh khắc lớn nhất |
-| CF | Ayoub El Kaabi | Olympiacos | Medium-High | Trung phong | En-Nesyri không có trong squad theo ESPN/FourFourTwo context |
+| Position | Player             |                Club | Certainty   | Tactical Role              | Notes                                                        |
+| -------- | ------------------ | ------------------: | ----------- | -------------------------- | ------------------------------------------------------------ |
+| GK       | Yassine Bounou     |            Al-Hilal | High        | Thủ môn bắt chính          | Cầu thủ then chốt nếu bị ép sân                              |
+| RB       | Achraf Hakimi      | Paris Saint-Germain | High        | Hậu vệ phải tấn công       | Đường phản công lớn nhất                                     |
+| CB       | Chadi Riad         |      Crystal Palace | Medium      | Trung vệ lệch trái         | Aguerd rút lui, cần xác nhận cặp CB                          |
+| CB       | Issa Diop          |              Fulham | Medium      | Trung vệ tranh chấp        | Có thể cạnh tranh với Halhal / El Ouahdi                     |
+| LB       | Noussair Mazraoui  |   Manchester United | Medium-High | Hậu vệ trái/phải linh hoạt | Standard ghi đang quản lý vấn đề vai nhưng dự kiến có thể đá |
+| DM       | Sofyan Amrabat     |          Real Betis | High        | Mỏ neo phá nhịp            | Chặn Paqueta/Cunha nhận bóng giữa tuyến                      |
+| CM       | Azzedine Ounahi    |              Girona | Medium-High | Tiền vệ thoát pressing     | Kéo bóng khi Morocco phản công                               |
+| CM       | Bilal El Khannouss |       VfB Stuttgart | Medium      | Sáng tạo tuyến hai         | Có thể đá cao hơn nếu cần phản công                          |
+| RW       | Chemsdine Talbi    |          Sunderland | Medium      | Cánh phải tốc độ           | Có thể đổi với Rahimi                                        |
+| AM/LW    | Brahim Diaz        |         Real Madrid | High        | Ngôi sao sáng tạo          | Người tạo khoảnh khắc lớn nhất                               |
+| CF       | Ayoub El Kaabi     |          Olympiacos | Medium-High | Trung phong                | En-Nesyri không có trong squad theo ESPN/FourFourTwo context |
 
 3 vị trí còn tranh chấp của Morocco:
 
@@ -169,14 +169,14 @@ Morocco nhiều khả năng phòng ngự bằng khối 4-1-4-1 hoặc 4-3-3 lùi
 
 ### 5. Key Tactical Battles
 
-| Battle | Why It Matters | Advantage | Possible Outcome |
-|---|---|---|---|
-| Vinicius Junior vs Hakimi/Mazraoui side coverage | Cánh Brazil là nơi dễ tạo khác biệt nhất | Brazil nhẹ | Nếu Vinicius thắng một đối một, Morocco sẽ phải phá cấu trúc |
-| Hakimi phản công vs cánh trái Brazil | Đây là cửa làm Brazil trả giá khi dâng cao | Morocco | Một pha chạy đúng nhịp có thể tạo cơ hội lớn |
-| Casemiro/Bruno vs Amrabat/Ounahi | Trung tuyến quyết định ai kiểm soát nhịp | Brazil nhẹ | Brazil có thể cầm bóng nhiều hơn, Morocco chờ cướp bóng |
-| Cunha/Endrick vs cặp trung vệ Morocco | Aguerd rút lui làm trung vệ Morocco cần kiểm chứng | Brazil | Brazil có thể khai thác khoảng trống giữa CB và FB |
-| Bounou vs hàng công Brazil | Morocco cần thủ môn giữ trận | Morocco | Nếu Bounou chơi xuất thần, Brazil có thể bị kéo vào trận căng |
-| Bóng chết | Hai đội đều có người đánh đầu tốt | Even | Một phạt góc có thể đổi nhịp trận |
+| Battle                                           | Why It Matters                                     | Advantage  | Possible Outcome                                              |
+| ------------------------------------------------ | -------------------------------------------------- | ---------- | ------------------------------------------------------------- |
+| Vinicius Junior vs Hakimi/Mazraoui side coverage | Cánh Brazil là nơi dễ tạo khác biệt nhất           | Brazil nhẹ | Nếu Vinicius thắng một đối một, Morocco sẽ phải phá cấu trúc  |
+| Hakimi phản công vs cánh trái Brazil             | Đây là cửa làm Brazil trả giá khi dâng cao         | Morocco    | Một pha chạy đúng nhịp có thể tạo cơ hội lớn                  |
+| Casemiro/Bruno vs Amrabat/Ounahi                 | Trung tuyến quyết định ai kiểm soát nhịp           | Brazil nhẹ | Brazil có thể cầm bóng nhiều hơn, Morocco chờ cướp bóng       |
+| Cunha/Endrick vs cặp trung vệ Morocco            | Aguerd rút lui làm trung vệ Morocco cần kiểm chứng | Brazil     | Brazil có thể khai thác khoảng trống giữa CB và FB            |
+| Bounou vs hàng công Brazil                       | Morocco cần thủ môn giữ trận                       | Morocco    | Nếu Bounou chơi xuất thần, Brazil có thể bị kéo vào trận căng |
+| Bóng chết                                        | Hai đội đều có người đánh đầu tốt                  | Even       | Một phạt góc có thể đổi nhịp trận                             |
 
 ## PHẦN 6 - MATCH SCENARIOS
 
@@ -200,11 +200,11 @@ Morocco nhiều khả năng phòng ngự bằng khối 4-1-4-1 hoặc 4-3-3 lùi
 
 ## PHẦN 7 - PREDICTION MODEL
 
-| Outcome | Probability | Reason |
-|---|---:|---|
-| Brazil Win | 52% | Chất lượng đội hình, chiều sâu tấn công và Ancelotti tạo lợi thế rõ |
-| Draw | 27% | Morocco đủ tổ chức để kéo trận vào thế ít bàn nếu Brazil ghi muộn |
-| Morocco Win | 21% | Hakimi/Brahim/Bounou có thể tạo bất ngờ, nhất là nếu Brazil mất cân bằng |
+| Outcome     | Probability | Reason                                                                   |
+| ----------- | ----------: | ------------------------------------------------------------------------ |
+| Brazil Win  |         52% | Chất lượng đội hình, chiều sâu tấn công và Ancelotti tạo lợi thế rõ      |
+| Draw        |         27% | Morocco đủ tổ chức để kéo trận vào thế ít bàn nếu Brazil ghi muộn        |
+| Morocco Win |         21% | Hakimi/Brahim/Bounou có thể tạo bất ngờ, nhất là nếu Brazil mất cân bằng |
 
 Most Likely Score: Brazil 2 - 1 Morocco  
 Risk Scenario: Morocco giữ sạch lưới đến hiệp hai, Bounou chơi xuất thần, Hakimi phản công vào sau lưng cánh Brazil.  
@@ -523,20 +523,20 @@ Lưu ý nếu chạy quảng bá: nên bỏ tỷ số dự đoán, phần trăm,
 
 ## PHẦN 12 - SOURCE CHECK
 
-| Source | Information Used | Reliability |
-|---|---|---|
-| FIFA Match Centre: https://www.fifa.com/en/match-centre/match/17/285023/289273/400021456 | Official match listing, Group C, date/time and competition context | Official |
-| MetLife Stadium: https://www.metlifestadium.com/events/detail/fifa-world-cup-2026-brazil-vs-morocco | Venue and local kick-off: June 13, 2026, 6:00 PM | Official venue |
-| Transfermarkt Brazil: https://www.transfermarkt.com/Brazil/startseite/verein/3439 | Brazil squad value, squad size, FIFA ranking profile | High |
-| Transfermarkt Morocco: https://www.transfermarkt.us/morocco/startseite/verein/3575 | Morocco squad value, squad size, FIFA ranking profile | High |
-| FIFA Brazil squad announcement: https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/brazil-squad-announcement-carlo-ancelotti | Brazil squad announcement and Ancelotti context | Official |
-| FIFA Morocco squad announcement: https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/morocco-squad-announcement-mohamed-ouahbi | Morocco squad announcement and Ouahbi context | Official |
-| FourFourTwo Brazil squad: https://www.fourfourtwo.com/team/brazil-world-cup-2026-squad | Brazil squad list, recent results, Ancelotti, Vinicius context | Medium-High |
-| FourFourTwo Morocco squad: https://www.fourfourtwo.com/team/morocco-world-cup-2026-squad | Morocco squad list, recent results, Mohamed Ouahbi, Hakimi context | Medium-High |
-| RotoWire Group C preview: https://www.rotowire.com/soccer/article/2026-world-cup-group-c-preview-brazil-morocco-scotland-haiti-tactics-lineups-set-pieces-odds-109040 | Brazil projected XI, tactical notes, Neymar role, Brazil defensive setup | Medium |
-| Evening Standard preview: https://www.standard.co.uk/sport/football/brazil-vs-morocco-prediction-kick-off-time-tv-live-stream-team-news-latest-h2h-results-odds-world-cup-2026-preview-b1285580.html | Team news: Wesley injury/Ederson call-up, Neymar fitness, Morocco injury updates, H2H | Medium |
-| The Guardian Brazil team guide: https://www.theguardian.com/football/2026/may/29/brazil-world-cup-2026-team-guide | Brazil qualification context and Ancelotti/Vinicius pressure | Medium-High |
-| Al Jazeera Morocco preview: https://www.aljazeera.com/sports/2026/6/3/morocco-world-cup-2026-preview-players-to-watch-group-and-squad-list | Morocco ranking and player-to-watch context | Medium-High |
+| Source                                                                                                                                                                                               | Information Used                                                                      | Reliability    |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | -------------- |
+| FIFA Match Centre: https://www.fifa.com/en/match-centre/match/17/285023/289273/400021456                                                                                                             | Official match listing, Group C, date/time and competition context                    | Official       |
+| MetLife Stadium: https://www.metlifestadium.com/events/detail/fifa-world-cup-2026-brazil-vs-morocco                                                                                                  | Venue and local kick-off: June 13, 2026, 6:00 PM                                      | Official venue |
+| Transfermarkt Brazil: https://www.transfermarkt.com/Brazil/startseite/verein/3439                                                                                                                    | Brazil squad value, squad size, FIFA ranking profile                                  | High           |
+| Transfermarkt Morocco: https://www.transfermarkt.us/morocco/startseite/verein/3575                                                                                                                   | Morocco squad value, squad size, FIFA ranking profile                                 | High           |
+| FIFA Brazil squad announcement: https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/brazil-squad-announcement-carlo-ancelotti                                             | Brazil squad announcement and Ancelotti context                                       | Official       |
+| FIFA Morocco squad announcement: https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/morocco-squad-announcement-mohamed-ouahbi                                            | Morocco squad announcement and Ouahbi context                                         | Official       |
+| FourFourTwo Brazil squad: https://www.fourfourtwo.com/team/brazil-world-cup-2026-squad                                                                                                               | Brazil squad list, recent results, Ancelotti, Vinicius context                        | Medium-High    |
+| FourFourTwo Morocco squad: https://www.fourfourtwo.com/team/morocco-world-cup-2026-squad                                                                                                             | Morocco squad list, recent results, Mohamed Ouahbi, Hakimi context                    | Medium-High    |
+| RotoWire Group C preview: https://www.rotowire.com/soccer/article/2026-world-cup-group-c-preview-brazil-morocco-scotland-haiti-tactics-lineups-set-pieces-odds-109040                                | Brazil projected XI, tactical notes, Neymar role, Brazil defensive setup              | Medium         |
+| Evening Standard preview: https://www.standard.co.uk/sport/football/brazil-vs-morocco-prediction-kick-off-time-tv-live-stream-team-news-latest-h2h-results-odds-world-cup-2026-preview-b1285580.html | Team news: Wesley injury/Ederson call-up, Neymar fitness, Morocco injury updates, H2H | Medium         |
+| The Guardian Brazil team guide: https://www.theguardian.com/football/2026/may/29/brazil-world-cup-2026-team-guide                                                                                    | Brazil qualification context and Ancelotti/Vinicius pressure                          | Medium-High    |
+| Al Jazeera Morocco preview: https://www.aljazeera.com/sports/2026/6/3/morocco-world-cup-2026-preview-players-to-watch-group-and-squad-list                                                           | Morocco ranking and player-to-watch context                                           | Medium-High    |
 
 ## RỦI RO CẦN KIỂM CHỨNG TRƯỚC KHI DÙNG ĐĂNG
 
